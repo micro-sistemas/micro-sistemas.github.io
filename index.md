@@ -21,39 +21,67 @@ Máquinas
 ===
 
 MS101, 1977
+
 MS104, 1979
+
 MS105, 1982
+
 MS51, 1982
+
 MS61, 1984
+
 
 Personas
 ===
 
 Julio Eduardo Bazán
+
 Héctor Müller ("El Gringo")
+
 Juan Carlos Murgui
+
 Freddy Díaz
+
 Juan Salonia
+
 Tomás Behrend
+
 Hugo Bonansea
+
 Mary Andrada
+
 Eduardo Salonia
+
 Alejandro Mogni
+
 Héctor Ramón Luján
+
 Gustavo de Fillipi
+
 Carlos Pellegrini
+
 Gabriel de Luca
+
 Guillermo Fessia
+
 José García
+
 Patricio Rodriguez
+
 Mario Víctor Venzon
+
 Carlos Alberto Rizzi
+
 
 Empresas
 ===
 
 PROCECOR
+
 Metalúrgica Lorré
+
 CEPICO 
+
 LACI (Laboratorio Argentino de Circuitos Impresos)
+
 SADE
