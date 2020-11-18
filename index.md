@@ -73,6 +73,18 @@ Mario Víctor Venzon
 Carlos Alberto Rizzi
 
 
+Domicilios
+===
+
+Santa Rosa 859, 1975?-1977
+
+9 de Julio 561, 1978-?
+
+Av. Fuerza Aérea 1760, 1980?-?
+
+Av. Japón 210, 1985-1992?
+
+
 Empresas
 ===
 
