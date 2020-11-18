@@ -1,6 +1,11 @@
 [Folleto](ms101_folleto_1977.pdf) que se usó para presentarla en Expoficina 77, colección de Tomás Behrend.
 ===
 
+
+
+<img src="ms101_folleto_1977_1.jpg" width="25%"> <img src="ms101_folleto_1977_2.jpg" width="25%"> <img src="ms101_folleto_1977_3.jpg" width="25%"> <img src="ms101_folleto_1977_4.jpg" width="25%">
+
+
 La MS101 estaba en estado de prototipo como se puede observar en la pantalla de la máquina.
 
 El aspecto final de la máquina difiere a la mostrada en el folleto.
