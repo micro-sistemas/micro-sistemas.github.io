@@ -20,7 +20,7 @@ FUNCION:
 Máquinas
 ===
 
-[MS101](Máquinas/MS101/), 1977
+[MS101](Máquinas/MS101/index.md), 1977
 
 MS104, 1979
 
