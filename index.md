@@ -48,7 +48,7 @@ Tomás Behrend
 
 Hugo Bonansea
 
-[Mary Andrada](Personas/Mary Andrada/)
+[Mary Andrada](Personas/MaryAndrada/)
 
 Eduardo Salonia
 
