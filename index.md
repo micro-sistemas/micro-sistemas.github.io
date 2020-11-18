@@ -94,7 +94,7 @@ Metalúrgica Lorré
 
 CEPICO 
 
-LACI (Laboratorio Argentino de Circuitos Impresos)
+[LACI](Empresas/LACI) (Laboratorio Argentino de Circuitos Impresos)
 
 SADE
 
