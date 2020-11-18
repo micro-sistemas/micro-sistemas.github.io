@@ -85,3 +85,12 @@ CEPICO
 LACI (Laboratorio Argentino de Circuitos Impresos)
 
 SADE
+
+
+Publicaciones
+===
+
+* E. Chesini, G. del Dago, N. Wolovick, MS101, [La Maquinita de Bazán](https://cs.famaf.unc.edu.ar/~nicolasw/Publicaciones/MS101LaMaquinitaDeBaz%C3%A1n.pdf), SHIALC 2018.
+* G. Rojo, Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina, SHIALC 2014.
+* Ediciones Banco de la Provincia de Buenos Aires, Microsistemas S.A.: El Salto Tecnológico, Testimonios No.10, julio 1987.
+
