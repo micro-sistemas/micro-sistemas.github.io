@@ -1,5 +1,5 @@
 [Folleto](ms101_folleto_1977.pdf) que se usó para presentarla en Expoficina 77, colección de Tomás Behrend.
-===
+---
 
 
 
@@ -28,3 +28,8 @@ LOCALIDAD   VILLA CABRERA
 
 PROVINCIA   CORDOBA
 ```
+
+[Folleto](folleto_MS101_MS103_MS104.pdf) comercial de ¿1979?
+---
+
+<img src="folleto_MS101_MS103_MS104-1.png" width="25%"> <img src="folleto_MS101_MS103_MS104-2.png" width="25%">
