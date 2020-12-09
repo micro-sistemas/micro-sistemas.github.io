@@ -15,7 +15,6 @@ MICRO-SISTEMAS    M.S. 101                FECHA:
 FUNCION:
 ```
 
-* [Entrevista de Guillermo Rojo y Jorge Aguirre (UNRC) a Juan Salonia, 1 de mayo 2010](Salonia_Rojo_Aguirre_2010_05_01.mp3)
 
 Máquinas
 ===
@@ -42,7 +41,7 @@ Juan Carlos Murgui
 
 Freddy Díaz
 
-Juan Salonia
+[Juan Salonia](Personas/Juan%20Salonia/)
 
 Tomás Behrend
 
