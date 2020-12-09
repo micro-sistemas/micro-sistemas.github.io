@@ -1,3 +1,5 @@
+![](MS_logo_grupoFacebook.jpg)
+
 ```
 MICRO-SISTEMAS    M.S. 101                FECHA:
 
