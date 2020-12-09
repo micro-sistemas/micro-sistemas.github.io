@@ -1,7 +1,7 @@
 Mary Andrada
 ===
 
-Luego de trabajar en Transradio y Fapeco armando equipos transmisores de radio, Mary Andrada vuelve a su Córdoba a trabajar en Micro Sistemas
+Luego de trabajar en Transradio y Fapeco armando equipos transmisores de radio, Mary Andrada vuelve a su Córdoba a trabajar en Micro Sistemas.
 
 <img src="mary_andrada_fza_aerea_1.jpg" width="25%">
 
