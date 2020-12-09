@@ -8,13 +8,19 @@ A partir de esta entrevista surge el artículo:
 
 Guillermo Rojo, [*Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina*](https://micro-sistemas.github.io/Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
 
+
+Transcripción: Tomás Behrend, 2020.  
+Correcciones: Nicolás Wolovick, 2020.
+
+---
+
 Esta visita de ustedes me ha obligado a buscar información je je ... información antigua, la verdad es una etapa muy querida de mi vida.
 
 Repasando un poco lo que hicimos, hoy es un poco increíble haber hecho lo que hicimos pero éramos jóvenes sin preconceptos en ese momento, irreverentes, no nos asustaba lo que estábamos estudiando y IBM no era un Cuco para nada y básicamente para mí que provengo del área informática de la parte de Hardware Pesado de Burroughs donde es mi origen.
 
-**Antecedentes**
+**Guillermo Rojo: Antecedentes**
 
-En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para EDP,  así se conocía el término.
+En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para EDP, así se conocía el término.
 
 Porque hasta esa época todas las máquinas de los bancos eran registro directo, con alguna electrónica por ejemplo, la Centronics grababa la hoja de papel pero tenía la capacidad de auto alinearse leyendo la banda magnética, estamos hablando de equipos a válvulas, con flip flops hecho con válvulas al vacío.
 
@@ -22,23 +28,23 @@ Y bueno yo trabajaba en un banco, apenas terminé la secundaria entré a trabaja
 
 El técnico de la compañía Burroughs tenía como un cierto perfil y yo estudiaba ingeniería electrónica simultáneamente; en Córdoba, si yo nací en Córdoba y siempre estuve ligado por h o por b a la electrónica desde los 14 años, fabricando radio a transistores cuando se inventó el transistor, cuando aparecieron las primeras radiecitas esas forradas en cuero.
 
-**¿Spica?**
+**GR: ¿Spica?**
 
 No, no Spica vino después. Antes de las Spica, la verdad que es parte de la historia de la electrónica en Córdoba, en Argentina en general, se fabricaron muchas cosas de electrónica, estaba la fábrica Topeco en Buenos Aires, una fábrica de bobinas, que era el corazón de una radio, el kit de bobinas, uno compraba las bobinas, las bobinas de frecuencia intermedia las bobinas de antena, que era el kit básico y eso junto con un circuito de transistores estándar de germanio en aquella época se armaba una radio, era una época un poco empírica.
 
-**¿Y eso en qué año?**
+**GR: ¿Y eso en qué año?**
 
 Y estamos hablando no sé, yo tengo 62 años y nací en el 48, así que habrá sido los años 60, en esa época se estilaba que los chicos, para que no estuvieran en la calle, los capturaban a un taller, los padres lo ponían como aprendiz, la cuestión era no estar en la calle y aprender y ahí fue el contacto con la electrónica y empezamos mucho de esto como un hobby. 
 
 Cuando terminé la secundaria y entré a trabajar al banco fue una cuestión casual pero seguía vinculado al diseño de cositas.Bueno así fue como me vinculo con Burroughs ganando ese concurso, Burroughs había vendido su primer gran computador al Banco de Córdoba, uno se la imagina inmensa, un centro de cómputos, como la HAL de Odisea del Espacio.
 
-**¿A válvulas esa máquina?**
+**GR: ¿A válvulas esa máquina?**
 
 No no no, ya era tercera generación, a nivel diseño electrónico me salteó varias etapas, ya se había inventado el circuito integrado. Las grandes empresas madre eran IBM, NCR, Burroughs y UNIVAC, Digital, recién nacía Digital, eran 4 o 5 que se repartieron el mundo.
 
 Así nació todo, era una época muy romántica, lo que se hablaba de informática, se empezaron a aplicar las teorías binarias que se habían acumulado durante la guerra, se desarrollaron nítidamente para el panorama comercial.
 
-**Empleado de Burroughs**
+**GR: Empleado de Burroughs**
 
 Cuando me seleccionan para la compañía Burroughs, tuve que renunciar al banco, fue la primer sorpresa rara, no estaba previsto para mí, era un juego en ese momento pero había que asumirlo y me radican en Buenos Aires 2 años para estudiar toda la línea de computadoras y cuando vuelvo era para instalar el Banco de Córdoba.
 
@@ -48,7 +54,7 @@ Y bueno, se me pone un poco aburrido, cuando tenés muchas inquietudes y ya cono
 
 Cómo se había vuelto un poco complicado, se me empezaron a ocurrir algunos proyectos y me vinculo con gente que piensa en hacer una maquinita para competir con IBM entonces se formó Micro Sistemas. Esta es la segunda parte de toda la historia del nacimiento de ….
 
-**¿La gente con la que vos te vas a juntar son socios, o ellos ya tenían alguna estructura ...?**
+**GR: ¿La gente con la que vos te vas a juntar son socios, o ellos ya tenían alguna estructura ...?**
 
 No no no, la historia arranca así, una persona que era el Contador Julio Bazán, era dueño de un centro de cómputos, un clásico de la época, tenía una 360 creo y data entry, las clásicas lectoras de tarjeta perforada de Hollerith y hacia servicios, hacía captura de datos desde una planilla pasaba todo y perforada las tarjetas y entregaba una cinta con los archivos para su posterior procesamiento y en ese momento estaba sucediendo un cambio de paradigma en la entrada de datos porque IBM acababa de sacar la 3741 que grababa floppies de 8", y era compatible con los sistema IBM, había definido un estándar de soft sector.
 
@@ -56,21 +62,21 @@ En ese momento se estaba decidiendo cuál iba a ser el estándar, hard sector o 
 
 Bueno ese era uno de los primeros cambios y en mi caso que trabajaba en Burroughs como competencia a IBM, tenía la Burroughs la N9800 que era una máquina de *data entry* y capturaba sobre una cinta magnética de 9 *tracks*, era compleja, con servos y una manera muy sofisticada de manejar la cinta, el arranque y parada, un registro de 80 caracteres o de 150 usaba un pedacito de cinta, era más grande el *inter record gap*, que el lugar donde se grababan los datos, así que tenía una precisión enorme mientras paraba arrancaba paraba arrancaba y yo también era técnico, de esa manera en la época del cambio paradigmático era muy caro el papel Boldt era un fabricante de las tarjetas de papel, los dueños de la pelota.
 
-**Un monopolio**
+**GR: Un monopolio**
 
 Bueno este hombre Bazán un muchacho joven muy inquieto, tenía que comprar las tarjetas perforadas, era la parte más cara que tenía, no sólo se le ocurre que había que pasar a nuevas tecnologías sino que como contador-tecnólogo medio raro, por ahí hay que frenarlo un poco.
 
-Se le ocurre que había que fabricar una maquinita, pero ya siguiendo a IBM, entonces invita a dos personas cercanas conocidas, uno fue Juan Carlos Murgui que en esa época era experto en NCR, gerente técnico de NCR y a Héctor Müller, que era un analista de sistemas, un tipo muy capaz, que habían andado por muchas empresas, en NCR y UNIVAC,y era un softwarista y entre esos dos se ponen a pergeñar la posibilidad de hacer esta maquinita de grabación de datos, por supuesto cuando nace el concepto, el hardwarista, que era el petiso Murgui, le digo petiso cariñosamente porque es chico, intenta hacerlo pero estaba yendo por el lado del diseño de hardware clásico o sea estaban haciendo el autómata todo con  diseño con sistema digital con compuertas y flip-flop y se estaban perdiendo en la maraña de diseño, porque era bastante complicado hacerlo de esa manera.
+Se le ocurre que había que fabricar una maquinita, pero ya siguiendo a IBM, entonces invita a dos personas cercanas conocidas, uno fue Juan Carlos Murgui que en esa época era experto en NCR, gerente técnico de NCR y a Héctor Müller, que era un analista de sistemas, un tipo muy capaz, que habían andado por muchas empresas, en NCR y UNIVAC,y era un softwarista y entre esos dos se ponen a pergeñar la posibilidad de hacer esta maquinita de grabación de datos, por supuesto cuando nace el concepto, el hardwarista, que era el petiso Murgui, le digo petiso cariñosamente porque es chico, intenta hacerlo pero estaba yendo por el lado del diseño de hardware clásico o sea estaban haciendo el autómata todo con diseño con sistema digital con compuertas y flip-flop y se estaban perdiendo en la maraña de diseño, porque era bastante complicado hacerlo de esa manera.
 
 Bueno, Bazán había puesto sus expectativas en esto y viendo que se le diluye el proyecto invita a dos personas más, por ahí había algunos chisporroteos humanos sobre cómo se hacían las cosas, hacer la de esta forma o de la otra, a todo esto nadie había dejado su trabajo, era todo chichonero de la tarde.
 
-**Intentar a ver si se podía ...**
+**GR: Intentar a ver si se podía ...**
 
 Claro si, chichoneo tecnológico y bueno, viendo que se diluye el tema Bazán invita a estas dos personas de *backup* y yo soy invitado, al poco tiempo como segundo hardwarista, cómo adlater de Murgui y estaríamos entonces, entre los dos, todo el conocimiento de NCR y de Burroughs y por otro lado se invita a Freddy Díaz, que era un programador de IBM, y traía sus cosas de IBM.
 
-Entonces  entre los cuatro teníamos un *know-how* bastante importante de las empresas madres y ahí se decide directamente que había que ir, estamos hablando del año 73/74 y en ese momento se acaba de inventar el microprocesador, esa fue la coincidencia mundial tecnológica o sea Intel acababa de hacer el 8080, antes había hecho el procesador de 4 bits que no había tenido suceso, pero cuando sale el 8080, sale el primer microprocesador que maneja octeto y con una estructura ya manejable, digamos por supuesto que una cosa es que aparezca la cucaracha de 40 patas, pero además no había nada, no había compilador, lo que había era un listado de las instrucciones que podía seguir el autómata, el micro, pero nada más y había un kit de Intel para incentivar el desarrollo, el [SDK 8080](https://en.wikipedia.org/wiki/Intel_System_Development_Kit#SDK-80) que venía con una *mother board* toda perforada para pinchar cosas, un tecladito y un display para seguir la secuencia y eso era todo lo que había. Pero era nada menos que un cambio total.
+Entonces entre los cuatro teníamos un *know-how* bastante importante de las empresas madres y ahí se decide directamente que había que ir, estamos hablando del año 73/74 y en ese momento se acaba de inventar el microprocesador, esa fue la coincidencia mundial tecnológica o sea Intel acababa de hacer el 8080, antes había hecho el procesador de 4 bits que no había tenido suceso, pero cuando sale el 8080, sale el primer microprocesador que maneja octeto y con una estructura ya manejable, digamos por supuesto que una cosa es que aparezca la cucaracha de 40 patas, pero además no había nada, no había compilador, lo que había era un listado de las instrucciones que podía seguir el autómata, el micro, pero nada más y había un kit de Intel para incentivar el desarrollo, el [SDK 8080](https://en.wikipedia.org/wiki/Intel_System_Development_Kit#SDK-80) que venía con una *mother board* toda perforada para pinchar cosas, un tecladito y un display para seguir la secuencia y eso era todo lo que había. Pero era nada menos que un cambio total.
 
-**Comparado con lo que había antes**
+**GR: Comparado con lo que había antes**
 
 Empezó a ser todo inteligencia, o sea soft.
 
@@ -80,7 +86,7 @@ Y así fue como nos combinamos para trabajar desde las 5 de la tarde, bajo la pr
 
 Y bueno entonces empezamos un trabajo en una casona en la calle Santa Rosa desde las 5:30 que salíamos de nuestro trabajo hasta las 1 de la mañana más o menos.
 
-**¿Este inicio en qué año sería?**
+**GR: ¿Este inicio en qué año sería?**
 
 74, 75 ese fue el comienzo, trabajamos un año de esa manera subterránea y se obtiene la MS-101, hubo algunas cosas interesantes en el camino, por supuesto se aprendió mucho sobre la 8080, el micro, porque como decimos en esa época no había compiladores, entonces la forma de programar era con un sello hexadecimal largo que empezaba en 0 y terminaba en F, Müller lo ponía en un cuaderno y ahí iba escribiendo en cada dirección de la memoria del micro, iba escribiendo el programa, compilando en la cabeza y cuando había un error ponía un no opera saltaba y seguía, así era el tema, porque el assembler no había parecido, se hizo todo a mano y se grababa en la memoria, me acuerdo la 2708 la memoria clásica de 1 KB, era la EPROM.
 
@@ -88,23 +94,25 @@ Y a los hardwaristas nos tocó la tarea de diseñar las placas para la maquinita
 
 También, en esa época era todo teletipo, el *input/output* era mecánico y empezó a aparecer la pantalla de video, entonces nosotros decidimos poner una pantalla de video a la máquina.
 
-**¿Antes que habia?**
+**GR: ¿Antes que había?**
 
 Por ejemplo la Burroughs PT 1500 yo la manejé un montón de años con una teletipo o sea escribíamos y la teletipo transformaba cada carácter en pulsos de 20 miliamperes iban a un traductor y la máquina lo devolvía solo en la teletipo; cuando apareció la pantalla de video era más rápido, más gráfico a pesar de que los gráficos eran armados con caracteres, todavía no se usaba, no había formato de pixel.
 
-Esa fue un poco la historia de la máquina, al cabo de un año se logra tener la máquina arriba de una mesa, se habían superado algunos obstáculos importantes, por ejemplo la fuente, no existían las fuentes de switching en esa época, las fuentes eran todas lineales, significaba que había que tener un transformador grande y pesado. No era tanto el peso sino que si uno quería hacer una máquina compacta el transformador estaba muy cerca del tubo, había un batido magnético en el deflector del display y el campo del transformador con los 50 ciclos, entonces la imagen era tipo hawaiana, se mueve y era absolutamente notable no había forma de filtrarlo o frenarlo….( ) ….  y entonces en el diseño del controlador de video, tuve que diseñar todo, no había controladores de video integrado, había que hacer la placa controladora de video, se tenía que dibujar cada puntito en la pantalla, la forma de eliminar de raíz el problema fue hacer un sincronizador con la frecuencia de la red mezclado con la frecuencia del barrido de la pantalla. Se llama PLL eso en inglés, y bueno diseñamos un PLL, sintetizamos la frecuencia del barrido vertical sincronizada con la red pública, el campo magnético, y ahí se clavó la imagen, ya con eso fue la solución.
+Esa fue un poco la historia de la máquina, al cabo de un año se logra tener la máquina arriba de una mesa, se habían superado algunos obstáculos importantes, por ejemplo la fuente, no existían las fuentes de switching en esa época, las fuentes eran todas lineales, significaba que había que tener un transformador grande y pesado. No era tanto el peso sino que si uno quería hacer una máquina compacta el transformador estaba muy cerca del tubo, había un batido magnético en el deflector del display y el campo del transformador con los 50 ciclos, entonces la imagen era tipo hawaiana, se mueve y era absolutamente notable no había forma de filtrarlo o frenarlo ... ( ) ... y entonces en el diseño del controlador de video, tuve que diseñar todo, no había controladores de video integrado, había que hacer la placa controladora de video, se tenía que dibujar cada puntito en la pantalla, la forma de eliminar de raíz el problema fue hacer un sincronizador con la frecuencia de la red mezclado con la frecuencia del barrido de la pantalla. Se llama PLL eso en inglés, y bueno diseñamos un PLL, sintetizamos la frecuencia del barrido vertical sincronizada con la red pública, el campo magnético, y ahí se clavó la imagen, ya con eso fue la solución.
 
 Eso trajo una anécdota después en uno de los viajes, fueron tantas cosas que pasaron en el ínterin, nosotros no podíamos hacer nada, ni viajar a ningún lado, porque estábamos trabajando, yo seguía en Burroughs, Murgui seguía trabajando en NCR, no podíamos dejar para nada.
 
 Cuando se termina la máquina, los únicos que estaban liberados para viajar eran Bazán y Müller, para poder hacer algo, entonces cargaron la maquinita en una casa rodante y se fueron a mostrarla a una Expoficina en Buenos Aires, no me acuerdo a que año, fue al año siguiente.
 
-**¿Bazán ya la usaba en el negocio de él?**
+**GR: ¿Bazán ya la usaba en el negocio de él?**
 
 No, no para nada, ya se había orientado a hacer una empresa de informática, de fabricación.
 
-**¿Esto cuando sería, lo de la Expoficina?**
+**GR: ¿Esto cuando sería, lo de la Expoficina?**
 
-Habrá que buscar los datos, pero habrá sido en el 74, 75;  fue un poco antes de que hiciéramos formalmente los papeles de la S.A. Bueno la cuestión es que el nombre que se eligió fue Micro Sistemas para la empresa y el símbolo, un mate de plata y el eslogan "El Desafío Argentino", como se ve, éramos todos muy jóvenes, estábamos orgullosos de lo que habíamos hecho.Según lo que cuentan, yo no fui a Buenos Aires, fue bastante extraño, porque estaba el enorme stand de IBM, estaba el stand de tres por tres y estaba el stand de NCR al lado, entonces éramos la curiosidad con el cartel que decía “El Desafío Argentino” con las dos multinacionales a los costados, mucha gente pasó por ahí.
+Habrá que buscar los datos, pero habrá sido en el 74, 75; fue un poco antes de que hiciéramos formalmente los papeles de la S.A.
+Bueno la cuestión es que el nombre que se eligió fue Micro Sistemas para la empresa y el símbolo, un mate de plata y el eslogan "El Desafío Argentino", como se ve, éramos todos muy jóvenes, estábamos orgullosos de lo que habíamos hecho.
+Según lo que cuentan, yo no fui a Buenos Aires, fue bastante extraño, porque estaba el enorme stand de IBM, estaba el stand de tres por tres y estaba el stand de NCR al lado, entonces éramos la curiosidad con el cartel que decía “El Desafío Argentino” con las dos multinacionales a los costados, mucha gente pasó por ahí.
 
 Una exposición simpática, estaban ahí, dos locos cordobeses … La cuestión es que la máquina se quemó, pasó de todo. Müller es muy temperamental, muy bueno, un genio en software, pero medio complicado con el hardware, sacó la tapa y quemó todo, hubo que arreglar, la cuestión se zafó de ahí.
 
@@ -118,7 +126,7 @@ Nosotros cometimos en ese momento un error, que a la postre resultó útil, pero
 
 Nosotros decidimos hacer el bus propio, eso implicó de que todo lo que siguió de allí en adelante lo tuviéramos que diseñar, nunca pudimos comprar una placa aprovechando para ir rápido en una dirección dada, tuvimos que diseñar comunicación de datos, tuvimos que diseñar disco duro por ejemplo, toda una evolución en la máquina, primero era solamente la grabadora de floppy, pero después al tiempo apareció el assembler, ya en esa época empezaba a insinuarse Steve Jobs con los sistemas operativos, se empezó a vender el MS-DOS no el actual, el anterior el CP/M todo compatible con la filosofía del 8080.
 
-**¿Ustedes seguían con el 8080 o habían pasado al 8085?**
+**GR: ¿Ustedes seguían con el 8080 o habían pasado al 8085?**
 
 No, nunca pasamos al 8085, siempre fue 8080 y después en un momento dado decidimos pasar al Z80 de Zilog, que era más potente, tenía más periféricos, y sobre todo tenía dos chips de comunicación de datos que era muy muy potentes, que era el CTC *counter timer controller* y SIO *serial input output*, que tenía la ventaja de que tenía incorporado protocolos de alto nivel, que era compatible con IBM también, permitía una serie de cosas que nos iban arrimando a las compatibilidades del *layer*, de la capa más alta de la comunicación.
 
@@ -130,9 +138,9 @@ En el interín seguiamos haciendo maquinitas, y vendiendo y creciendo como empre
 
 Cuando sale una licitación de este tipo, cerca de 1 millón de dólares, grande, para todo ENTel , nosotros hicimos la máquina en 2 meses, teníamos tanta experiencia de desarrollo, ganamos la licitación, pero la perdimos, uno de los militares que estaba a cargo nos dijo que éramos demasiado jóvenes para ganar eso, que nos borráramos.
 
-**¿La cantidad de unidades que hubo funcionando de la 101, más o menos?**
+**GR: ¿La cantidad de unidades que hubo funcionando de la 101, más o menos?**
 
-Se habrán fabricado más de 800 o 1000, la verdad eran producciones del orden de 15, 20 por mes, llegamos a tener ciento y pico personas trabajando. 
+Se habrán fabricado más de 800 o 1000, la verdad eran producciones del orden de 15, 20 por mes, llegamos a tener ciento y pico personas trabajando.
 
 A tal punto que la fundación Konrad Adenauer un dia ...
 
@@ -142,15 +150,15 @@ Yo era gerente de desarrollo en esa época, la Fundación Konrad Adenauer nos vi
 
 -- minuto 34 --
 
-**¿Estaban distribuidas en todo el país?**
+**GR: ¿Estaban distribuidas en todo el país?**
 
 Si, si
 
-**¿Abrieron Sucursales?**
+**GR: ¿Abrieron Sucursales?**
 
 Abrimos sucursal en Buenos Aires, al poco tiempo se lideró la Cámara de Industria, primero fue uno de nuestros colegas de ventas Luján pero él tenía un perfil de vendedor que era un muy hábil vendedor no conocía mucho de técnica entonces, para tener autoridad moral para hablar, para hablar seriamente de muchas cosas, se discutían aranceles, se discutía cómo hacer para frenar las importaciones y había que buscar artículos técnicos para eso el directorio me designó a mí para que vaya a la Cámara ahí empecé a viajar todas las semanas a Buenos Aires durante 4 años.
 
-Eso fue aumentando el perfil de exposición, en Buenos Aires la creación del ? ( gidey?)  del IFI, congresos, mesas redondas, conferencias en Chile, el BID, Washington, fue toda una época de alta exposición, incluso nos tocó recibir la delegación en Montevideo para discutir los aranceles de ALADI.
+Eso fue aumentando el perfil de exposición, en Buenos Aires la creación del ? ( gidey?) del IFI, congresos, mesas redondas, conferencias en Chile, el BID, Washington, fue toda una época de alta exposición, incluso nos tocó recibir la delegación en Montevideo para discutir los aranceles de ALADI.
 
 Para mi era muy fácil hablar delante de la gente y mis interlocutores del otro lado no eran tan técnicos, entonces cuando yo decía algo, se callaban, no tenían más remedio y lo mismo pasaba cuando había que hacer algún decreto, en muchos casos fui consultado por la Secretaría de Industria.
 
@@ -162,7 +170,7 @@ Muchas veces, viajábamos mucho a EEUU también, 2 veces por año mas o menos, t
 
 Muchas anécdotas, después le fuimos poniendo disco duro, o sea las máquinas fueron creciendo.
 
-Por ejemplo en una oportunidad a la 101, que ya tenía CP/M, hubo que ponerle disco duro, *hard disk*, entonces recién aparecían los discos duros, era la punta de toda la tecnología, Shugart era el primer fabricante, que era el que le vendia a IBM, cuando Shugart a través de firma ¿Tico? Buenos Aires nos manda la información de diseño, manda el prototipo, el disco andaba,  había que hacer el driver, no venían los drivers hechos, había que diseñar todo.
+Por ejemplo en una oportunidad a la 101, que ya tenía CP/M, hubo que ponerle disco duro, *hard disk*, entonces recién aparecían los discos duros, era la punta de toda la tecnología, Shugart era el primer fabricante, que era el que le vendia a IBM, cuando Shugart a través de firma ¿Tico? Buenos Aires nos manda la información de diseño, manda el prototipo, el disco andaba, había que hacer el driver, no venían los drivers hechos, había que diseñar todo.
 
 No andaba, no andaba, estuvimos como 2 o 3 meses y no lo pudimos hacer andar, entonces con Müller, cargamos todo el hardware nuestro, nos fuimos a California, al mismo lugar de siempre, a Mountain View, nos prestaron un lugar, gente amiga nos prestó un sitio, un rincón de una empresa, compramos en una maderera hicimos una mesa, alquilamos un osciloscopio, en 2 días hicimos un laboratorio, armamos las maquinitas.
 
@@ -170,7 +178,7 @@ Llamamos al tipo de Shugart, lo teníamos cerca, Palo Alto, un holandes, que hab
 
 Donde decía cero era uno, donde decía uno era cero, era un pre-release de la documentación real, no le íbamos a pegar nunca.
 
-**¡Ah, entonces la documentación estaba mal!**
+**GR: ¡Ah, entonces la documentación estaba mal!**
 
 En 2 días estuvo andando, cuando vimos toda la historia, en 2 días estuvo andando, aparte de hacernos amigo del hombre este.
 
@@ -180,7 +188,7 @@ Aparte de la anécdota, al poco tiempo cayó una carta del Departamento de Estad
 
 -- minuto 40 --
 
-**Vos sabes que vos contas todo esto, y no … digamos, siempre las cosas que aparecen, los políticos, las cuestiones … no los afectó, ¿no influyó? Siempre hay vaivenes políticos.**
+**GR: Vos sabes que vos contas todo esto, y no ... digamos, siempre las cosas que aparecen, los políticos, las cuestiones ... no los afectó, ¿no influyó? Siempre hay vaivenes políticos.**
 
 Si, si, en el interín sufrimos todos los avatares de la devaluación, y la incertidumbre del dólar, y no había ningún incentivo, los créditos estaban carísimos.
 
@@ -188,15 +196,15 @@ Todo estaba al revez, se pagaba más caro el arancel por los componentes que por
 
 Nació la 104 con el CP/M y después la 105 con el MP/M, que era multitasking, y ahí empezamos a tener bancos, y en esa época nace la PC de IBM, ya hay otro mundo que nace, ya empezábamos a meternos en el mundo de las computadoras PC , entonces decidimos hacer una PC.
 
-**¿Estaban dedicadas a grabar?**
+**GR: ¿Estaban dedicadas a grabar?**
 
 No, no, ya habíamos dejado la 101, la 102, ya habíamos hecho la 104 que era una microcomputadora la vendíamos a los colegios, bancos, Arcor.
 
-**¿Ustedes desarrollaron el software que corría?**
+**GR: ¿Ustedes desarrollaron el software que corría?**
 
 Si, el CP/M que era el sistema operativo, venía de EEUU, después sale el BASIC, cuando sale el BASIC se abre el espectro, después salió el FORTRAN, el COBOL.
 
-**¿Eso corría en la máquina de ustedes?**
+**GR: ¿Eso corría en la máquina de ustedes?**
 
 Corría en la máquina nuestra, si.
 En un momento dado nos decidimos a hacer la MS-61, le cambiamos el número, y fue la primer PC hecha en la Argentina. Ya tenemos mucha experiencia muchos ingenieros trabajando, y enviamos dos personas como no había forma de hacerlo por sistema asistido, el único que tenía una máquina, que era una *Computer Vision*, que tenía Pescarmona en Mendoza que la usaban para hacer diseño mecánico de las hélices esas grandes con control numérico y uno de los módulos de la *Computer Vision* era el electrónico, que no lo estaban usando, no necesitaban usarlo en ese momento.
@@ -217,13 +225,13 @@ Entonces de nuevo a California.
 
 Con la cinta bajo el brazo, la cinta magnética dónde estaba el archivo con el diseño de la Computer Vision a California a la fábrica de Frank Barry (??) que siempre nos había dado apoyo, en Mountain View, 30 días, me quedo a esperar la partida y para volverme con las placas directamente, así hicimos las primeras 50 placas, y nos vinimos.
 
-**¿A fabricar las computadoras?**
+**GR: ¿A fabricar las computadoras?**
 
 A fabricar las computadoras, armarlas, mientras tanto compramos chips.
 
-En esa época sabíamos tanto sobre la 8080, 8086 que nos hicimos representantes de Intel para desparramar la tecnología, Intel nos hacía hacer cursos 
+En esa época sabíamos tanto sobre la 8080, 8086 que nos hicimos representantes de Intel para desparramar la tecnología, Intel nos hacía hacer cursos
 
-**¿Y mas aprendían?**
+**GR: ¿Y mas aprendían?**
 
 Yo le dicté cursos a la gente de Telecom, de ENTel, de EPEC, a todo el mundo que quería tocar el microprocesador nosotros le damos el curso, inclusive a Brasil fui a dar un curso sobre cinta magnética, a la Central Nuclear de Embalse, los lugares donde se necesitaba desparramar el conocimiento.
 
@@ -239,13 +247,13 @@ El único que había competido un poco con Microsistemas había sido FATE con un
 
 Por h o por b nosotros pasamos más arriba y sacamos el concurso
 
-**¿Eso fue antes de Alfonsin, en los 70?**
+**GR: ¿Eso fue antes de Alfonsin, en los 70?**
 
-Si, si, por eso ellos dejaron, no siguieron y nosotros seguimos para adelante. La cuestión es que cuando se hace el concurso Micro Sistemas, por historia, por la forma de hacer las cosas -  
+Si, si, por eso ellos dejaron, no siguieron y nosotros seguimos para adelante. La cuestión es que cuando se hace el concurso Micro Sistemas, por historia, por la forma de hacer las cosas -
 
 Ah, me faltó decir que hubo avatares con los capitales en todo el ínterin, había aumento de capitales y nuestro porcentaje se iba diluyendo, el de los técnicos, ese fue otro error, yo lo analizo así, cada uno tiene su propia visión de lo que pasó, yo creo que a esta altura del partido, en aquel momento no debimos nosotros haber aceptado bajar nuestra parte, no eran falencias tecnológicas sino falencias de capital, entonces los que debían haber bajado era la parte de capital y no nosotros nuestra participación, pero éramos muy jóvenes, nos gustaba diseñar nomas.
 
-**Había que avanzar**
+**GR: Había que avanzar**
 
 No le dábamos mucha importancia, y siempre nos sacrificamos por eso. Al final yo terminé teniendo el 1 y pico por ciento, se vendió cuando después vino lo que pasó.
 
@@ -255,13 +263,13 @@ Coincide que sale la Resolución 44 y Micro Sistemas gana los 2 primeros lugares
 
 Obligatoriamente los bancos tenían que comprarle a esa empresa que ganara, nos faltaba tecnología, empezamos a buscar socios tecnólogos para que nos acompañen en el tema, tuvieron picando Telefónica de España, fuimos para eso invitados a Madrid a hablar con ellos, pero hablaban mucho pero no tenían nada, decían que estaban trabajando en un proyecto.
 
-**Pero no tenían nada concreto**
+**GR: Pero no tenían nada concreto**
 
 Nosotros sabíamos de qué estábamos hablando, tampoco íbamos a comer vidrio.
 
 Después nos invita Olivetti, pagan el viaje vamos a (hebrea?) a ver que tenían, Olivetti tenía cajeros, y también estaban en lo mismo que Telefónica, estaban ahí empezando a hacer algo, los de Telefónica estaban tratando de casarse con AT&T, la firma de New Jersey, AT&T tenía un procesador que corría bajo Unix, pero Unix no estaba maduro todavía para multitasking, si estaba maduro pero no tenia los sistemas de seguridad bancarios que hacían falta, en definitiva las grandes empresas las tenía IBM, que ya venía vendiendo hace mil años.
 
-**Que ya lo había desarrollado**
+**GR: Que ya lo había desarrollado**
 
 --Minuto 53 --
 
@@ -275,19 +283,19 @@ Pero las condiciones fueron esas, entonces apareció SADE con plata, Micro Siste
 
 Entonces Micro Sistemas pasa a fabricar productos bancarios de la línea 4700 de IBM, a ser fabricados en Córdoba, toda una movida de inversiones, aparece plata de SADE, por supuesto plata benigna, porque el concurso público preveía además desgravación impositiva, no era nada tan duro.
 
-A mi me toca el rol de  ; ya prácticamente a nivel desarrollo no tenía mucho para hacer, entonces ni siquiera como dueño, ya no era ni nada, me estaba por ir, bueno me solicitan que me quede, De Filippi me pide que me quede especialmente, me designan gerente de Garantía de Calidad para poder hacer el manual ISO 9001, porque había que hacer todo, las condiciones de la resolución 44 era que había que funcionar bajo ISO 9000, y no existía ese manual.
+A mi me toca el rol de ; ya prácticamente a nivel desarrollo no tenía mucho para hacer, entonces ni siquiera como dueño, ya no era ni nada, me estaba por ir, bueno me solicitan que me quede, De Filippi me pide que me quede especialmente, me designan gerente de Garantía de Calidad para poder hacer el manual ISO 9001, porque había que hacer todo, las condiciones de la resolución 44 era que había que funcionar bajo ISO 9000, y no existía ese manual.
 
-**¿Era el 85 más o menos?**
+**GR: ¿Era el 85 más o menos?**
 
 86 mas o menos, si, entonce los últimos 4 años de mi trayecto dentro de esta empresa transcurre generando el manual y dirigiendo la parte de garantía de calidad , esto incluyó muchas horas contratadas con IBM, entrevistas con los gerentes de IBM en Buenos Aires, para tratar de extraer el espíritu de la planta Martínez, como funciona IBM, y la gente de SADE me pone como asesor un ingeniero holandes Arnold Benz, que ya falleció creo, especialista nuclear, porque SADE tenia muchas empresas, trabajaba mucho con nucleoeléctricas y las centrales atómicas, entonces este muchacho era especialista, entrenado en Canadá en centrales nucleares y sabía mucho de calidad, de la ISO 9000.
 
 Con él como asesor, con mi experiencia en todo lo que es electrónica y diseño, y rasguñando a IBM su *know-how* interno y su filosofía generamos un manual de políticas, que se aprobó después en el INTI para Micro Sistemas. Asi llegamos al 90, 89. 
 
-**¿Ahí estaba Manuel Augusto Greco también, en el plan no?**
+**GR: ¿Ahí estaba Manuel Augusto Greco también, en el plan no?**
 
 Si, Don Greco en el Plan Nacional de Electrónica.
 
-Dentro de lo ocurrió en esa época de perfil alto mio, ocurrieron varias cosas, yo tenía actividad por un lado de diseño, por otro lado conferencias, charlas, cursos; y por otro lado me nombraron asesor del Plan Nacional de Electrónica  y en ese contexto estaba Correa como Subsecretario de Informática.
+Dentro de lo ocurrió en esa época de perfil alto mio, ocurrieron varias cosas, yo tenía actividad por un lado de diseño, por otro lado conferencias, charlas, cursos; y por otro lado me nombraron asesor del Plan Nacional de Electrónica y en ese contexto estaba Correa como Subsecretario de Informática.
 
 Y ahí hubo una entrevista con Ruiz Guiñazú, en su momento, en un programa de ciencia y técnica.
 
@@ -297,6 +305,6 @@ Me quedo en una especie de shock sabático, tenía 40 años, y me pongo a diseñ
 
 Toda esa experiencia, más el conocimiento del mercado, y que el medio tenían de mí, me ayudó también a posicionar, a mi me resultaba muy fácil, y resulta actualmente, decirle a un centro de cómputos, a un call center, está pasando esto, no me hace falta pensar demasiado cual es la solución, adonde está el problema.
 
-**¡Tu know how!**
+**GR: ¡Tu know how!**
 
 Exactamente, eso significa que pude ganar, a pesar de empezar de cero de vuelta en este tema, y actualmente represento a General Electric, tengo clientes importantes, pero es chiquita la empresa, tengo 3 empleados nada más por ahora, estamos en un proyecto de energías alternativas que creo es el resumen de lo que podría ocurrir en los últimos años en este tema.
