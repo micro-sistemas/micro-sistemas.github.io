@@ -1,4 +1,4 @@
-**Entrevista a Juan Salonia** 
+**Entrevista a Juan Salonia**
 
 Entrevista de Guillermo Rojo y Jorge Aguirre a Juan Salonia
 
@@ -6,7 +6,7 @@ Entrevista de Guillermo Rojo y Jorge Aguirre a Juan Salonia
 
 A partir de esta entrevista surge el artículo:
 
-Guillermo Rojo, *[Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentin*a](https://micro-sistemas.github.io/Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
+Guillermo Rojo, [*Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina*](https://micro-sistemas.github.io/Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
 
 Esta visita de ustedes me ha obligado a buscar información je je ... información antigua, la verdad es una etapa muy querida de mi vida.
 
@@ -14,25 +14,25 @@ Repasando un poco lo que hicimos, hoy es un poco increíble haber hecho lo que h
 
 **Antecedentes**
 
-En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para EDP (*Electronic Data Processing*),  así se conocía el término.
+En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para EDP,  así se conocía el término.
 
-Porque hasta esa época todas las máquinas de los bancos eran registro directo (* los datos se registraban en fichas de papel, las máquinas sólo podían hacer operaciones básicas, sumas y restas*), con alguna electrónica por ejemplo, la Centronics grababa la hoja de papel pero tenía la capacidad de auto alinearse leyendo la banda magnética, estamos hablando de equipos a válvulas, con flip flops hecho con válvulas al vacío.
+Porque hasta esa época todas las máquinas de los bancos eran registro directo, con alguna electrónica por ejemplo, la Centronics grababa la hoja de papel pero tenía la capacidad de auto alinearse leyendo la banda magnética, estamos hablando de equipos a válvulas, con flip flops hecho con válvulas al vacío.
 
 Y bueno yo trabajaba en un banco, apenas terminé la secundaria entré a trabajar en un banco y teníamos de esas máquinas, mi gusto era arreglarlas cuando se rompían, que se rompían muy seguido por el tipo de tecnología que tenían.
 
 El técnico de la compañía Burroughs tenía como un cierto perfil y yo estudiaba ingeniería electrónica simultáneamente; en Córdoba, si yo nací en Córdoba y siempre estuve ligado por h o por b a la electrónica desde los 14 años, fabricando radio a transistores cuando se inventó el transistor, cuando aparecieron las primeras radiecitas esas forradas en cuero.
 
-**Spica?**
+**¿Spica?**
 
 No, no Spica vino después. Antes de las Spica, la verdad que es parte de la historia de la electrónica en Córdoba, en Argentina en general, se fabricaron muchas cosas de electrónica, estaba la fábrica Topeco en Buenos Aires, una fábrica de bobinas, que era el corazón de una radio, el kit de bobinas, uno compraba las bobinas, las bobinas de frecuencia intermedia las bobinas de antena, que era el kit básico y eso junto con un circuito de transistores estándar de germanio en aquella época se armaba una radio, era una época un poco empírica.
 
-**¿Y eso en qué año? **
+**¿Y eso en qué año?**
 
 Y estamos hablando no sé, yo tengo 62 años y nací en el 48, así que habrá sido los años 60, en esa época se estilaba que los chicos, para que no estuvieran en la calle, los capturaban a un taller, los padres lo ponían como aprendiz, la cuestión era no estar en la calle y aprender y ahí fue el contacto con la electrónica y empezamos mucho de esto como un hobby. 
 
 Cuando terminé la secundaria y entré a trabajar al banco fue una cuestión casual pero seguía vinculado al diseño de cositas.Bueno así fue como me vinculo con Burroughs ganando ese concurso, Burroughs había vendido su primer gran computador al Banco de Córdoba, uno se la imagina inmensa, un centro de cómputos, como la HAL de Odisea del Espacio.
 
-**¿A valvulas esa máquina?**
+**¿A válvulas esa máquina?**
 
 No no no, ya era tercera generación, a nivel diseño electrónico me salteó varias etapas, ya se había inventado el circuito integrado. Las grandes empresas madre eran IBM, NCR, Burroughs y UNIVAC, Digital, recién nacía Digital, eran 4 o 5 que se repartieron el mundo.
 
@@ -48,11 +48,9 @@ Y bueno, se me pone un poco aburrido, cuando tenés muchas inquietudes y ya cono
 
 Cómo se había vuelto un poco complicado, se me empezaron a ocurrir algunos proyectos y me vinculo con gente que piensa en hacer una maquinita para competir con IBM entonces se formó Micro Sistemas. Esta es la segunda parte de toda la historia del nacimiento de ….
 
-**¿La gente con la que vos te vas a juntar son socios, o ellos ya tenían alguna estructura ,,,?**
+**¿La gente con la que vos te vas a juntar son socios, o ellos ya tenían alguna estructura ...?**
 
-**Cómo surge el proyecto Micro Sistemas**
-
- No no no, la historia arranca así, una persona que era el Contador Julio Bazán, era dueño de un centro de cómputos, un clásico de la época, tenía una 360 creo y data entry, las clásicas lectoras de tarjeta perforada de Hollerith y hacia servicios, hacía captura de datos desde una planilla pasaba todo y perforada las tarjetas y entregaba una cinta con los archivos para su posterior procesamiento y en ese momento estaba sucediendo un cambio de paradigma en la entrada de datos porque IBM acababa de sacar la 3741 que grababa floppies de 8", y era compatible con los sistema IBM, había definido un estándar de soft sector.
+No no no, la historia arranca así, una persona que era el Contador Julio Bazán, era dueño de un centro de cómputos, un clásico de la época, tenía una 360 creo y data entry, las clásicas lectoras de tarjeta perforada de Hollerith y hacia servicios, hacía captura de datos desde una planilla pasaba todo y perforada las tarjetas y entregaba una cinta con los archivos para su posterior procesamiento y en ese momento estaba sucediendo un cambio de paradigma en la entrada de datos porque IBM acababa de sacar la 3741 que grababa floppies de 8", y era compatible con los sistema IBM, había definido un estándar de soft sector.
 
 En ese momento se estaba decidiendo cuál iba a ser el estándar, hard sector o soft sector. La diferencia era que el hard sector tenía un montón de agujeritos para sincronizar las pistas y el soft sector ponía una dirección finalmente se decidió por el *soft sector*.
 
@@ -64,19 +62,17 @@ Bueno este hombre Bazán un muchacho joven muy inquieto, tenía que comprar las 
 
 Se le ocurre que había que fabricar una maquinita, pero ya siguiendo a IBM, entonces invita a dos personas cercanas conocidas, uno fue Juan Carlos Murgui que en esa época era experto en NCR, gerente técnico de NCR y a Héctor Müller, que era un analista de sistemas, un tipo muy capaz, que habían andado por muchas empresas, en NCR y UNIVAC,y era un softwarista y entre esos dos se ponen a pergeñar la posibilidad de hacer esta maquinita de grabación de datos, por supuesto cuando nace el concepto, el hardwarista, que era el petiso Murgui, le digo petiso cariñosamente porque es chico, intenta hacerlo pero estaba yendo por el lado del diseño de hardware clásico o sea estaban haciendo el autómata todo con  diseño con sistema digital con compuertas y flip-flop y se estaban perdiendo en la maraña de diseño, porque era bastante complicado hacerlo de esa manera.
 
-**Ingreso a Micro Sistemas**
-
 Bueno, Bazán había puesto sus expectativas en esto y viendo que se le diluye el proyecto invita a dos personas más, por ahí había algunos chisporroteos humanos sobre cómo se hacían las cosas, hacer la de esta forma o de la otra, a todo esto nadie había dejado su trabajo, era todo chichonero de la tarde.
 
-**Intentar a ver si se podía...**
+**Intentar a ver si se podía ...**
 
 Claro si, chichoneo tecnológico y bueno, viendo que se diluye el tema Bazán invita a estas dos personas de *backup* y yo soy invitado, al poco tiempo como segundo hardwarista, cómo adlater de Murgui y estaríamos entonces, entre los dos, todo el conocimiento de NCR y de Burroughs y por otro lado se invita a Freddy Díaz, que era un programador de IBM, y traía sus cosas de IBM.
 
 Entonces  entre los cuatro teníamos un *know-how* bastante importante de las empresas madres y ahí se decide directamente que había que ir, estamos hablando del año 73/74 y en ese momento se acaba de inventar el microprocesador, esa fue la coincidencia mundial tecnológica o sea Intel acababa de hacer el 8080, antes había hecho el procesador de 4 bits que no había tenido suceso, pero cuando sale el 8080, sale el primer microprocesador que maneja octeto y con una estructura ya manejable, digamos por supuesto que una cosa es que aparezca la cucaracha de 40 patas, pero además no había nada, no había compilador, lo que había era un listado de las instrucciones que podía seguir el autómata, el micro, pero nada más y había un kit de Intel para incentivar el desarrollo, el [SDK 8080](https://en.wikipedia.org/wiki/Intel_System_Development_Kit#SDK-80) que venía con una *mother board* toda perforada para pinchar cosas, un tecladito y un display para seguir la secuencia y eso era todo lo que había. Pero era nada menos que un cambio total.
 
-**Comparado con lo que había antes.**
+**Comparado con lo que había antes**
 
-Empezó a ser todo inteligencia, o sea soft. 
+Empezó a ser todo inteligencia, o sea soft.
 
 Por supuesto el 8080 nace con una familia de periféricos, nace el PIO o sea *Peripheral Input-Output*, otro chip de control, una familia de chips que simplificaban enormemente el hardware de lo que se pudiera hacer.
 
@@ -106,7 +102,7 @@ Cuando se termina la máquina, los únicos que estaban liberados para viajar era
 
 No, no para nada, ya se había orientado a hacer una empresa de informática, de fabricación.
 
-¿Esto cuando sería, lo de la Expoficina?
+**¿Esto cuando sería, lo de la Expoficina?**
 
 Habrá que buscar los datos, pero habrá sido en el 74, 75;  fue un poco antes de que hiciéramos formalmente los papeles de la S.A. Bueno la cuestión es que el nombre que se eligió fue Micro Sistemas para la empresa y el símbolo, un mate de plata y el eslogan "El Desafío Argentino", como se ve, éramos todos muy jóvenes, estábamos orgullosos de lo que habíamos hecho.Según lo que cuentan, yo no fui a Buenos Aires, fue bastante extraño, porque estaba el enorme stand de IBM, estaba el stand de tres por tres y estaba el stand de NCR al lado, entonces éramos la curiosidad con el cartel que decía “El Desafío Argentino” con las dos multinacionales a los costados, mucha gente pasó por ahí.
 
@@ -138,7 +134,7 @@ Cuando sale una licitación de este tipo, cerca de 1 millón de dólares, grande
 
 Se habrán fabricado más de 800 o 1000, la verdad eran producciones del orden de 15, 20 por mes, llegamos a tener ciento y pico personas trabajando. 
 
-A tal punto que la fundación Konrad Adenauer un dia …..
+A tal punto que la fundación Konrad Adenauer un dia ...
 
 Acá empezó la actividad institucional,porque empezamos a hacer ruido, la verdad que fue eso así en el país y en Córdoba, mucha gente no entendía cómo una empresa cómo está, primero había nacido en Argentina y segundo en Córdoba, ni siquiera en Buenos Aires, lo más razonable, y entonces llamó la atención de mucha gente.
 
@@ -166,7 +162,7 @@ Muchas veces, viajábamos mucho a EEUU también, 2 veces por año mas o menos, t
 
 Muchas anécdotas, después le fuimos poniendo disco duro, o sea las máquinas fueron creciendo.
 
-Por ejemplo en una oportunidad a la 101, que ya tenía CP/M, hubo que ponerle disco duro, *hard disk*, entonces recién aparecían los discos duros, era la punta de toda la tecnología, Shugart era el primer fabricante, que era el que le vendia a IBM, cuando Shugart a través de firma Tico ? Buenos Aires nos manda la información de diseño, manda el prototipo, el disco andaba,  había que hacer el driver, no venían los drivers hechos, había que diseñar todo.
+Por ejemplo en una oportunidad a la 101, que ya tenía CP/M, hubo que ponerle disco duro, *hard disk*, entonces recién aparecían los discos duros, era la punta de toda la tecnología, Shugart era el primer fabricante, que era el que le vendia a IBM, cuando Shugart a través de firma ¿Tico? Buenos Aires nos manda la información de diseño, manda el prototipo, el disco andaba,  había que hacer el driver, no venían los drivers hechos, había que diseñar todo.
 
 No andaba, no andaba, estuvimos como 2 o 3 meses y no lo pudimos hacer andar, entonces con Müller, cargamos todo el hardware nuestro, nos fuimos a California, al mismo lugar de siempre, a Mountain View, nos prestaron un lugar, gente amiga nos prestó un sitio, un rincón de una empresa, compramos en una maderera hicimos una mesa, alquilamos un osciloscopio, en 2 días hicimos un laboratorio, armamos las maquinitas.
 
@@ -192,7 +188,7 @@ Todo estaba al revez, se pagaba más caro el arancel por los componentes que por
 
 Nació la 104 con el CP/M y después la 105 con el MP/M, que era multitasking, y ahí empezamos a tener bancos, y en esa época nace la PC de IBM, ya hay otro mundo que nace, ya empezábamos a meternos en el mundo de las computadoras PC , entonces decidimos hacer una PC.
 
-**¿Estaban dedicadas a grabar? **
+**¿Estaban dedicadas a grabar?**
 
 No, no, ya habíamos dejado la 101, la 102, ya habíamos hecho la 104 que era una microcomputadora la vendíamos a los colegios, bancos, Arcor.
 
@@ -202,9 +198,10 @@ Si, el CP/M que era el sistema operativo, venía de EEUU, después sale el BASIC
 
 **¿Eso corría en la máquina de ustedes?**
 
-Corría en la máquina nuestra, si.  En un momento dado nos decidimos a hacer la MS-61, le cambiamos el número, y fue la primer PC hecha en la Argentina. Ya tenemos mucha experiencia muchos ingenieros trabajando, y enviamos dos personas como no había forma de hacerlo por sistema asistido, el único que tenía una máquina, que era una *Computer Vision*, que tenía Pescarmona en Mendoza que la usaban para hacer diseño mecánico de las hélices esas grandes con control numérico y uno de los módulos de la *Computer Vision* era el electrónico, que no lo estaban usando, no necesitaban usarlo en ese momento.
+Corría en la máquina nuestra, si.
+En un momento dado nos decidimos a hacer la MS-61, le cambiamos el número, y fue la primer PC hecha en la Argentina. Ya tenemos mucha experiencia muchos ingenieros trabajando, y enviamos dos personas como no había forma de hacerlo por sistema asistido, el único que tenía una máquina, que era una *Computer Vision*, que tenía Pescarmona en Mendoza que la usaban para hacer diseño mecánico de las hélices esas grandes con control numérico y uno de los módulos de la *Computer Vision* era el electrónico, que no lo estaban usando, no necesitaban usarlo en ese momento.
 
-Entonces hablamos con Pescarmona, yo no tenía preconcepto en ese momento nadie podía hablar….
+Entonces hablamos con Pescarmona, yo no tenía preconcepto en ese momento nadie podía hablar ...
 
 Hablo con esta gente si me dicen podemos alquilarle *block time*, que así se llama el alquiler de computadoras y mando a 2 ingenieros a Mendoza y se pusieron a diseñar, digamos a cargar los datos para diseñar la placa, por supuesto la máquina trabaja uniendo pistas, hace todo un algoritmo, ahora es todo más fácil, corre en una PC de escritorio, pero en esa época no había. Lo más que se pudo hacer de simplificación, pudo hacerlo en 4 capas, el diseño del circuito impreso, eso significa que las pistas no sólo pueden ir por arriba o por abajo sino también por dentro, bueno salió en 4 capas y no había forma de simplificar eso y sale del tamaño estándar de las motherboards de ese momento.
 
@@ -280,7 +277,7 @@ Entonces Micro Sistemas pasa a fabricar productos bancarios de la línea 4700 de
 
 A mi me toca el rol de  ; ya prácticamente a nivel desarrollo no tenía mucho para hacer, entonces ni siquiera como dueño, ya no era ni nada, me estaba por ir, bueno me solicitan que me quede, De Filippi me pide que me quede especialmente, me designan gerente de Garantía de Calidad para poder hacer el manual ISO 9001, porque había que hacer todo, las condiciones de la resolución 44 era que había que funcionar bajo ISO 9000, y no existía ese manual.
 
-**¿Era el 85 más o menos ?**
+**¿Era el 85 más o menos?**
 
 86 mas o menos, si, entonce los últimos 4 años de mi trayecto dentro de esta empresa transcurre generando el manual y dirigiendo la parte de garantía de calidad , esto incluyó muchas horas contratadas con IBM, entrevistas con los gerentes de IBM en Buenos Aires, para tratar de extraer el espíritu de la planta Martínez, como funciona IBM, y la gente de SADE me pone como asesor un ingeniero holandes Arnold Benz, que ya falleció creo, especialista nuclear, porque SADE tenia muchas empresas, trabajaba mucho con nucleoeléctricas y las centrales atómicas, entonces este muchacho era especialista, entrenado en Canadá en centrales nucleares y sabía mucho de calidad, de la ISO 9000.
 
@@ -303,4 +300,3 @@ Toda esa experiencia, más el conocimiento del mercado, y que el medio tenían d
 **¡Tu know how!**
 
 Exactamente, eso significa que pude ganar, a pesar de empezar de cero de vuelta en este tema, y actualmente represento a General Electric, tengo clientes importantes, pero es chiquita la empresa, tengo 3 empleados nada más por ahora, estamos en un proyecto de energías alternativas que creo es el resumen de lo que podría ocurrir en los últimos años en este tema.
-
