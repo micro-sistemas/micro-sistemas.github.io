@@ -20,7 +20,7 @@ Repasando un poco lo que hicimos, hoy es un poco increíble haber hecho lo que h
 
 **Guillermo Rojo: Antecedentes**
 
-En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para EDP, así se conocía el término.
+En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para [EDP](a "Electronic Data Processing"), así se conocía el término.
 
 Porque hasta esa época todas las máquinas de los bancos eran registro directo, con alguna electrónica por ejemplo, la Centronics grababa la hoja de papel pero tenía la capacidad de auto alinearse leyendo la banda magnética, estamos hablando de equipos a válvulas, con flip flops hecho con válvulas al vacío.
 
@@ -36,7 +36,8 @@ No, no Spica vino después. Antes de las Spica, la verdad que es parte de la his
 
 Y estamos hablando no sé, yo tengo 62 años y nací en el 48, así que habrá sido los años 60, en esa época se estilaba que los chicos, para que no estuvieran en la calle, los capturaban a un taller, los padres lo ponían como aprendiz, la cuestión era no estar en la calle y aprender y ahí fue el contacto con la electrónica y empezamos mucho de esto como un hobby. 
 
-Cuando terminé la secundaria y entré a trabajar al banco fue una cuestión casual pero seguía vinculado al diseño de cositas.Bueno así fue como me vinculo con Burroughs ganando ese concurso, Burroughs había vendido su primer gran computador al Banco de Córdoba, uno se la imagina inmensa, un centro de cómputos, como la HAL de Odisea del Espacio.
+Cuando terminé la secundaria y entré a trabajar al banco fue una cuestión casual pero seguía vinculado al diseño de cositas.
+Bueno así fue como me vinculo con Burroughs ganando ese concurso, Burroughs había vendido su primer gran computador al Banco de Córdoba, uno se la imagina inmensa, un centro de cómputos, como la HAL de Odisea del Espacio.
 
 **GR: ¿A válvulas esa máquina?**
 
