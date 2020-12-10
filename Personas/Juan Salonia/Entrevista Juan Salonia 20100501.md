@@ -22,7 +22,7 @@ Repasando un poco lo que hicimos, hoy es un poco increíble haber hecho lo que h
 
 En mis primeros años, a los 23 años gané una beca, un concurso que se hizo en Córdoba para seleccionar una persona para [EDP](a "Electronic Data Processing"), así se conocía el término.
 
-Porque hasta esa época todas las máquinas de los bancos eran registro directo, con alguna electrónica por ejemplo, la Centronics grababa la hoja de papel pero tenía la capacidad de auto alinearse leyendo la banda magnética, estamos hablando de equipos a válvulas, con flip flops hecho con válvulas al vacío.
+Porque hasta esa época todas las máquinas de los bancos eran registro directo, con alguna electrónica por ejemplo, la Centronics grababa la hoja de papel pero tenía la capacidad de auto alinearse leyendo la banda magnética, estamos hablando de equipos a válvulas, con *flip flops* hecho con válvulas al vacío.
 
 Y bueno yo trabajaba en un banco, apenas terminé la secundaria entré a trabajar en un banco y teníamos de esas máquinas, mi gusto era arreglarlas cuando se rompían, que se rompían muy seguido por el tipo de tecnología que tenían.
 
@@ -53,11 +53,11 @@ Así que ahí me quedé 5 años atendiendo y generando los nuevos técnicos, dan
 
 Y bueno, se me pone un poco aburrido, cuando tenés muchas inquietudes y ya conoces todo de la máquina, empezaba a no ser tan gratos, mis colegas salían a la calle y yo estaba ahí estudiando, mirando, haciendo el servicio preventivo, era bastante cómoda mi situación pero aburrida, entonces me empezaron a mandar gente, técnicos para preparar, mucho del exterior así como a mí me mandaron a Buenos Aires a otros los mandaban a Córdoba para entrenarlos, en esa época un técnico tenía su pieza, su sala dentro de los centros de cómputos, era parte de la historia digamos y además era parte de gente del banco, era medio bancario y medio técnico, un concepto que hoy en día se usa mucho, fábricas como Renault, tienen sedes las empresas de servicios metidas dentro de las grandes productoras.
 
-Cómo se había vuelto un poco complicado, se me empezaron a ocurrir algunos proyectos y me vinculo con gente que piensa en hacer una maquinita para competir con IBM entonces se formó Micro Sistemas. Esta es la segunda parte de toda la historia del nacimiento de ….
+Cómo se había vuelto un poco complicado, se me empezaron a ocurrir algunos proyectos y me vinculo con gente que piensa en hacer una maquinita para competir con IBM entonces se formó Micro Sistemas. Esta es la segunda parte de toda la historia del nacimiento de ...
 
 **GR: ¿La gente con la que vos te vas a juntar son socios, o ellos ya tenían alguna estructura ...?**
 
-No no no, la historia arranca así, una persona que era el Contador Julio Bazán, era dueño de un centro de cómputos, un clásico de la época, tenía una 360 creo y data entry, las clásicas lectoras de tarjeta perforada de Hollerith y hacia servicios, hacía captura de datos desde una planilla pasaba todo y perforada las tarjetas y entregaba una cinta con los archivos para su posterior procesamiento y en ese momento estaba sucediendo un cambio de paradigma en la entrada de datos porque IBM acababa de sacar la 3741 que grababa floppies de 8", y era compatible con los sistema IBM, había definido un estándar de soft sector.
+No no no, la historia arranca así, una persona que era el Contador Julio Bazán, era dueño de un centro de cómputos, un clásico de la época, tenía una 360 creo y data entry, las clásicas lectoras de tarjeta perforada de [Hollerith]("Inventor de las tarjetas perforadas") y hacia servicios, hacía captura de datos desde una planilla pasaba todo y perforada las tarjetas y entregaba una cinta con los archivos para su posterior procesamiento y en ese momento estaba sucediendo un cambio de paradigma en la entrada de datos porque IBM acababa de sacar la 3741 que grababa floppies de 8", y era compatible con los sistema IBM, había definido un estándar de soft sector.
 
 En ese momento se estaba decidiendo cuál iba a ser el estándar, hard sector o soft sector. La diferencia era que el hard sector tenía un montón de agujeritos para sincronizar las pistas y el soft sector ponía una dirección finalmente se decidió por el *soft sector*.
 
