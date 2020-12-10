@@ -288,7 +288,7 @@ A mi me toca el rol de ; ya prácticamente a nivel desarrollo no tenía mucho pa
 
 **GR: ¿Era el 85 más o menos?**
 
-86 mas o menos, si, entonce los últimos 4 años de mi trayecto dentro de esta empresa transcurre generando el manual y dirigiendo la parte de garantía de calidad , esto incluyó muchas horas contratadas con IBM, entrevistas con los gerentes de IBM en Buenos Aires, para tratar de extraer el espíritu de la planta Martínez, como funciona IBM, y la gente de SADE me pone como asesor un ingeniero holandes Arnold Benz, que ya falleció creo, especialista nuclear, porque SADE tenia muchas empresas, trabajaba mucho con nucleoeléctricas y las centrales atómicas, entonces este muchacho era especialista, entrenado en Canadá en centrales nucleares y sabía mucho de calidad, de la ISO 9000.
+86 mas o menos, si, entonce los últimos 4 años de mi trayecto dentro de esta empresa transcurre generando el manual y dirigiendo la parte de garantía de calidad , esto incluyó muchas horas contratadas con IBM, entrevistas con los gerentes de IBM en Buenos Aires, para tratar de extraer el espíritu de la planta Martínez, como funciona IBM, y la gente de SADE me pone como asesor un ingeniero holandés Arnold Bels, que ya falleció creo, especialista nuclear, porque SADE tenia muchas empresas, trabajaba mucho con nucleoeléctricas y las centrales atómicas, entonces este muchacho era especialista, entrenado en Canadá en centrales nucleares y sabía mucho de calidad, de la ISO 9000.
 
 Con él como asesor, con mi experiencia en todo lo que es electrónica y diseño, y rasguñando a IBM su *know-how* interno y su filosofía generamos un manual de políticas, que se aprobó después en el INTI para Micro Sistemas. Asi llegamos al 90, 89. 
 
