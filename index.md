@@ -105,8 +105,8 @@ SADE
 Publicaciones
 ===
 
-* Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [MS101, La Maquinita de Bazán](Publicaciones/MS101LaMaquinitaDeBazán.pdf
-), SHIALC 2018.
+* Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [Micro Sistemas, el salto olvidado](https://revistareplay.com.ar/comprar/), Revista Replay, número 21, diciembre 2020.
+* Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [MS101, La Maquinita de Bazán](Publicaciones/MS101LaMaquinitaDeBazán.pdf), SHIALC 2018.
 * Guillermo Rojo, [Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina](Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
 * Nicolás J. Herencic, [Microsistemas S.A.: El Salto Tecnológico](Publicaciones/MICROSISTEMAS_El_Salto_Tecnologico.pdf), Ediciones Banco de la Provincia de Buenos Aires, Testimonios No.10, julio 1987.
 
