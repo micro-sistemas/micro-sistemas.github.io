@@ -35,15 +35,15 @@ MS61, 1984
 Personas
 ===
 
-Julio Eduardo Bazán
+Julio Eduardo Bazán, 1975-?, ?-?
 
-Héctor Müller ("El Gringo")
+Héctor Müller ("El Gringo") 1975-?
 
-Juan Carlos Murgui
+Juan Carlos Murgui, 1975-?
 
-Freddy Díaz
+Freddy Díaz, 1975-?
 
-[Juan Salonia](Personas/Juan%20Salonia/)
+[Juan Salonia](Personas/Juan%20Salonia/), 1975-?
 
 Tomás Behrend
 
@@ -61,7 +61,7 @@ Gustavo de Fillipi
 
 [Carlos María Molina](Personas/Carlos%20Molina/)
 
-Carlos Pellegrini
+Carlos Pellegrini, 11 ago 1981-?
 
 Gabriel de Luca
 
@@ -69,11 +69,11 @@ Guillermo Fessia
 
 José García
 
-Patricio Rodriguez
+Patricio Rodriguez, 1977-1987
 
 Mario Víctor Venzon
 
-Carlos Alberto Rizzi
+[Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), 1987-1992
 
 
 Domicilios
