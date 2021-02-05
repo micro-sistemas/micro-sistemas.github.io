@@ -76,7 +76,7 @@ Mario Víctor Venzon
 [Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), 1987-1992
 
 
-Domicilios
+Lugares
 ===
 
 Santa Rosa 859, 1975?-1977
@@ -85,7 +85,7 @@ Santa Rosa 859, 1975?-1977
 
 Av. Fuerza Aérea 1760, 1980?-?
 
-Av. Japón 210, 1985-1992?
+[Av. Japón 210](Lugares/AvJapon), 1985-1992?
 
 
 Empresas
