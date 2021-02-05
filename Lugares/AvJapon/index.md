@@ -30,9 +30,12 @@ Arriba, de izquierda a derecha
 Abajo, de izquierda a derecha
 ---
  1. "Cacho" Romero, técnico reparaciones
- 2. Denis Elias Hernández (Salvadoreño), mangueras y placas
+ 2. Denis Elías Hernández (Salvadoreño), mangueras y placas
  3. Alejandro Quinteros, ?
  4. Domingo Carreño, repararaciones
 
+Hubo una segunda foto, donde no está el dueño de la cámara de fotos, Denis Elías Hernández.
+
+<img src="primer_dia_av_japon_foto2.jpg" width="75%">
 
 
