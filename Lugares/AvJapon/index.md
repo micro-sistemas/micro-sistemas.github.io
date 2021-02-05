@@ -9,7 +9,7 @@ Este fue su última ubicación hasta su cierre en 1992.
 
 Esta foto se sacó el primer día que los trabajadores y trabajadoras estuvieron en el Predio de Av. Japón.
 
-<img src="primer_dia_av_japon_foto1.jpg" width="25%">
+<img src="primer_dia_av_japon_foto1.jpg" width="75%">
 
 Arriba, de izquierda a derecha
 ---
