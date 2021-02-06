@@ -2,12 +2,13 @@ Av. Japón 210
 ===
 
 En 1985 y con la inyección de capitales que hace Gustavo de Filipi, MicroSistemas se muda a un predio mucho más grande en la Avenida Japón 210.
-Este fue su última ubicación hasta su cierre en 1992.
+Este fue su última ubicación hasta su cierre en 1995.
 
 [Mapa](https://goo.gl/maps/wjYLBA7oShpKZLzi8)
 
 
-Esta foto se sacó el primer día que los trabajadores y trabajadoras estuvieron en el Predio de Av. Japón.
+Los comienzos en Av. Japón, otoño de 1985.
+===
 
 <img src="primer_dia_av_japon_foto1.jpg" width="75%">
 
@@ -38,4 +39,19 @@ Hubo una segunda foto, donde no está el dueño de la cámara de fotos, Denis El
 
 <img src="primer_dia_av_japon_foto2.jpg" width="75%">
 
+
+Probable Fiesta de Fin de Año 1985
+===
+
+<img src="1985_fin_año_AvJapon.jpg" width="75%">
+
+1. Juan Salonia
+2. Carlos Pelegrini
+3. ?
+4. Mary Andrada
+5. ?
+6. ?
+7. Hugo Bonansea
+8. Coco Reartes
+9. ?
 
