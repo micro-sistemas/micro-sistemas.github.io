@@ -47,10 +47,10 @@ Fiesta de Fin de Año 1985
 
 1. Juan Salonia
 2. Carlos Pelegrini
-3. ?
+3. Cr. Eduardo González
 4. Mary Andrada
-5. ?
-6. ?
+5. Edgardo Rodríguez
+6. Alicia, secretaria planta
 7. Hugo Bonansea
 8. Coco Reartes
 9. ?
