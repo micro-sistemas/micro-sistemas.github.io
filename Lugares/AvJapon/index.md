@@ -46,7 +46,7 @@ Fiesta de Fin de Año 1985
 <img src="1985_fin_año_AvJapon.jpg" width="75%">
 
 1. Juan Salonia
-2. Carlos Pelegrini
+2. Carlos Pellegrini
 3. Cr. Eduardo González
 4. Mary Andrada
 5. Edgardo Rodríguez
