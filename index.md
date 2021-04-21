@@ -87,6 +87,9 @@ Av. Fuerza Aérea 1760, 1980?-?
 
 [Av. Japón 210](Lugares/AvJapon), 1985-1992?
 
+[Plan de Ordenamiento Urbano](Lugares/PlanOrdenamientoUrbano_Sinsacate_nov88.pdf), Municipalidad de Sinsacate, noviembre 1988.  
+Esto era el Polo Informático de Sinsacate relacionado a la Resolución 44/1985 de la Secretaría de Industria.
+
 
 Empresas
 ===
