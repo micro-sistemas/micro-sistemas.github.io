@@ -35,45 +35,47 @@ MS61, 1984
 Personas
 ===
 
-Julio Eduardo Bazán, 1975-?, ?-?
+Julio Eduardo Bazán, socio fundador, 1975-?, ?-?
 
-Héctor Müller ("El Gringo") 1975-?
+Héctor Müller ("El Gringo"), softwarista, 1975-?
 
-Juan Carlos Murgui, 1975-?
+Juan Carlos Murgui, hardwarista, 1975-?
 
-Freddy Díaz, 1975-?
+Freddy Díaz, softwarista, 1975-?
 
-[Juan Salonia](Personas/Juan%20Salonia/), 1975-?
+[Juan Salonia](Personas/Juan%20Salonia/), hardwarista, 1975-?
 
-Tomás Behrend
+Alicia Morillo, telefonista, secretaria bilingue
 
-Hugo Bonansea
+Tomás Behrend, softwarista
 
-[Mary Andrada](Personas/Mary%20Andrada/)
+Hugo Bonansea, hardwarista
 
-Eduardo Salonia
+[Mary Andrada](Personas/Mary%20Andrada/), ensamble, 5/5/1977 - 1994
+
+Eduardo Salonia, técnico
 
 Alejandro Mogni
 
 Héctor Ramón Luján
 
-Gustavo de Fillipi
+Gustavo de Fillipi, inversor
 
 [Carlos María Molina](Personas/Carlos%20Molina/)
 
 Carlos Pellegrini, 11 ago 1981-?
 
-Gabriel de Luca
+Gabriel de Luca, ensamble
 
 Guillermo Fessia
 
-José García
+José García, técnico Capital Federal, 27/7/1981-?
 
-Patricio Rodriguez, 1977-1987
+Patricio Rodriguez, vendedor, 1977-1987
 
-Mario Víctor Venzon
+Mario Víctor Venzon, técnico
 
-[Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), 1987-1992
+[Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), técnico, 1987-1992
 
 
 Lugares
