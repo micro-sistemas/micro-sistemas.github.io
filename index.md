@@ -23,7 +23,7 @@ Máquinas
 
 [MS101](Máquinas/MS101/index.md), 1977
 
-MS104, 1979
+[MS104](Máquinas/MS104/index.md), 1979
 
 MS105, 1982
 
