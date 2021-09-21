@@ -13,22 +13,22 @@ La MS104 fue la primera CP/M compatible que fabricó Microsistemas y sus caracte
 Placas de la MS-104, ejemplar de Pablo Gaggino
 ---
 
-<img src="ms104_pablo_gaggino_character_generator.jpg" width="25%">
+<img src="ms104_pablo_gaggino_character_generator.jpg" width="30%">
 <br> Generador de caracteres 64x16 con <a href="https://bytecollector.com/archive/mark_8/My_Mark-8_Info/DigitalGroupPacket/M6570.pdf">MCM6571A</a>
 
-<img src="ms104_pablo_gaggino_CPU.jpg" width="25%">
+<img src="ms104_pablo_gaggino_CPU.jpg" width="30%">
 <br> CPU 8080A y ROMs 2708.
 
-<img src="ms104_pablo_gaggino_disk_controller.jpg" width="25%">
+<img src="ms104_pablo_gaggino_disk_controller.jpg" width="30%">
 <br> Controladora de disco <a href="https://archive.org/details/bitsavers_necdatasheControllerMar77_2929335">µPD372</a>.
 
-<img src="ms104_pablo_gaggino_io.jpg" width="25%">
+<img src="ms104_pablo_gaggino_io.jpg" width="30%">
 <br> Controlador de Entrada/Salida.
 
-<img src="ms104_pablo_gaggino_ram1.jpg" width="25%">
+<img src="ms104_pablo_gaggino_ram1.jpg" width="30%">
 <br> 32 KiB inferiores usando 64 RAMs estáticas 2114 1Kx4.
 
-<img src="ms104_pablo_gaggino_ram2.jpg" width="25%">
+<img src="ms104_pablo_gaggino_ram2.jpg" width="30%">
 <br> 32 KiB superiores usando 64 RAMs estáticas 2114 1Kx4.
 
 
