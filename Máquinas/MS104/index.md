@@ -10,6 +10,12 @@ La MS104 fue la primera CP/M compatible que fabricó Microsistemas y sus caracte
 * 2 disketteras Shugart 8" con controladora µPD372 de NEC.
 
 <img src="folleto_MS101_MS103_MS104-2.png" width="30%">
+<br>
+Folleto comercial de la época.
+
+La MS104 era una máquina dual, ya que podía funcionar como una graboverificadora MS101, o como una computadora CP/M compatible.
+Al parecer el comando para pasar de MS104 a MS101 era `GO101`.
+Cuando tengamos el dump de las ROMs podremos verificarlo.
 
 
 Placas de la MS-104, ejemplar de Pablo Gaggino
