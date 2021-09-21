@@ -9,6 +9,8 @@ La MS104 fue la primera CP/M compatible que fabricó Microsistemas y sus caracte
 * Placa generadora de caracteres 64x16 con 1 KiB de RAM conectado a un monitor fósforo blanco de 9".
 * 2 disketteras Shugart 8" con controladora µPD372 de NEC.
 
+<img src="folleto_MS101_MS103_MS104-2.png" width="30%">
+
 
 Placas de la MS-104, ejemplar de Pablo Gaggino
 ---
