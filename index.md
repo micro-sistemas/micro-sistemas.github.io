@@ -59,6 +59,8 @@ Alejandro Mogni
 
 Héctor Ramón Luján
 
+Jorge Apestegui, 1979-1983
+
 Gustavo de Fillipi, inversor
 
 [Carlos María Molina](Personas/Carlos%20Molina/)
