@@ -26,13 +26,27 @@ El otro es más moderno y se diferencia en que tiene dos disketteras half-heigth
 Muy probablemente esta placa haya sido comprada en EEUU.
 
 
+Ejemplares
+---
+
+* [ESCMB](EjemplarESCMB/): versión 2, apareción en el Programa de Reciclados de Computadoras de la UNC.
+* [Alejandro Mogni](): versión 1, donada por el mismo Alejandro Mogni.
+* [Carlos Rizzi](): versión 2, donada por el Ing. Carlos Rizzi de San Francisco.
+
 
 Misceláneas
 ---
 
 [Video](https://www.youtube.com/watch?v=65s0TAGvQp4) del ejemplar del Analista de Sistemas Carlos Aguilera.
+Se puede ver que es una MS51 versión 1.
 
 Mini-diskette de 5.25" con software de alineación de cabezales, perteneciente a Carlos Pellegrini
 
 ![](minifloppy_soft_alinear.png)
+
+"La Biblia", conjunto de diskettes que genera los diskettes de sistema.
+Material donado por Leo Martínez, que pertenecía a su padre Pepe Martínez, el representante de Microsistemas en Goya, Corrientes.
+
+![La Biblia I, II y III](la_biblia_ms_a_cordoba.jpg)
+
 
