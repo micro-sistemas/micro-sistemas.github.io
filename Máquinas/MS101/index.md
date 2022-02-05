@@ -33,3 +33,11 @@ PROVINCIA   CORDOBA
 ---
 
 <img src="folleto_MS101_MS103_MS104-1.png" width="25%"> <img src="folleto_MS101_MS103_MS104-2.png" width="25%">
+
+[Formato de Disco](disco_MS101.pdf)
+---
+
+Aunque aun no hemos encontrado ningún diskette 8" de MS101, se sabe su formato.
+<br>
+<b>¡Si tenés uno, ponete en contacto con nosotros!</b>
+<img src="disco_MS101_small.jpg" width="25%">
