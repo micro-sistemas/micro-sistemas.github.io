@@ -43,4 +43,4 @@ Aunque aun no hemos encontrado ningún diskette 8" de MS101, se sabe su formato.
 
 Documentación provista por [Tomás Behrend](../../Personas/Tomás%20Behrend).
 
-<img src="disco_MS101_small.jpg" width="25%">
+<img src="disco_MS101_small.jpg" width="40%">
