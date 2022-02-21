@@ -20,7 +20,8 @@ Modelos
 ---
 
 Hubo al menos dos modelos, uno basado en la SBC-200 (single board computer) con 4 placas y 2 disketteras [Shugart SA400](https://commons.wikimedia.org/wiki/File:Shugart_SA_400_Minifloppy_Drive.jpg) 5 1/4" full-height.
-Muy probablemente esta placa SBC-200 haya sido diseñada y fabricada en EEUU a pedido de Héctor Müller.
+La placa [SBC-200](http://www.s100computers.com/Hardware%20Manuals/SD%20Systems/SD%20Systems%20SBC-200.pdf) de SD Systems venía toda armada y Microsistemas la integraba.
+Esto representa un retroceso respecto a los desarrollos locales como [MS101](../MS101) y [MS104](../MS104), que luego se revierte en la [MS61](../MS61).
 
 El otro es más moderno y se diferencia en que tiene dos disketteras half-heigth [Shugart SA455](http://www.bitsavers.org/pdf/shugart/SA4xx/SA455_SA465_Service.pdf) e internamente utiliza una sola placa que contiene CPU, ROM, RAM, IO y floppy controller.
 Muy probablemente esta placa haya sido comprada en EEUU.
