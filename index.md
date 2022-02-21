@@ -83,13 +83,13 @@ Mario Víctor Venzon, técnico
 Lugares
 ===
 
-Santa Rosa 859, 1975?-1977
+Santa Rosa 859, 1975?-1977. [📍](https://www.google.com/maps/place/Sta+Rosa+859,+X5000ESQ+C%C3%B3rdoba)
 
-9 de Julio 561, 1978-?
+9 de Julio 561, 1978-?. [mapa](https://www.google.com/maps/place/9+de+Julio+561,+X5000EMK+C%C3%B3rdoba). Casa demolida entre [2015 y 2018](https://www.google.com/maps/place/9+de+Julio+561,+X5000EMK+C%C3%B3rdoba/@-31.4127128,-64.190945,3a,75y,230.23h,91.21t/data=!3m6!1e1!3m4!1s8Y_7Qu8Ob5SFPlQN48Z51g!2e0!7i13312!8i6656!4m5!3m4!1s0x9432987f6cc0271f:0xe741418b08cfa5a0!8m2!3d-31.412828!4d-64.191009).
 
-Av. Fuerza Aérea 1760, 1980?-?
+Av. Fuerza Aérea 1760, 1980?-?. [mapa](https://www.google.com/maps/place/Av.+Fuerza+Aerea+Argentina+1760,+C%C3%B3rdoba/)
 
-[Av. Japón 210](Lugares/AvJapon), 1985-1992?
+[Av. Japón 210](Lugares/AvJapon), 1985-1992?. [mapa](https://www.google.com/maps/place/Av.+del+Jap%C3%B3n+210,+X5019BGP+C%C3%B3rdoba/)
 
 [Plan de Ordenamiento Urbano](Lugares/PlanOrdenamientoUrbano_Sinsacate_nov88.pdf), Municipalidad de Sinsacate, noviembre 1988.  
 Esto era el Polo Informático de Sinsacate relacionado a la Resolución 44/1985 de la Secretaría de Industria.
