@@ -31,8 +31,8 @@ Ejemplares
 ---
 
 * [ESCMB](EjemplarESCMB/): versión 2, apareción en el Programa de Reciclados de Computadoras de la UNC.
-* [Alejandro Mogni](): versión 1, donada por el mismo Alejandro Mogni.
-* [Carlos Rizzi](): versión 2, donada por el Ing. Carlos Rizzi de San Francisco.
+* [Alejandro Mogni](EjemplarMogni/): versión 1, donada por el mismo Alejandro Mogni.
+* [Carlos Rizzi](EjemplarRizzi/): versión 2, donada por el Ing. Carlos Rizzi de San Francisco.
 
 
 Misceláneas

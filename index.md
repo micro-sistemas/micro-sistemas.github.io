@@ -55,7 +55,7 @@ Hugo Bonansea, hardwarista
 
 Eduardo Salonia, técnico
 
-Alejandro Mogni
+[Alejandro Mogni](Personas/Alejandro%20Mogni/)
 
 Héctor Ramón Luján
 
