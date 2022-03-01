@@ -67,11 +67,11 @@ Gustavo de Fillipi, inversor
 
 Carlos Pellegrini, 11 ago 1981-?
 
-Gabriel de Luca, ensamble
+Gabriel de Luca, ensamble y calidad, 1 jun 1984 - >ago 1991
 
 Guillermo Fessia
 
-José García, técnico Capital Federal, 27/7/1981-?
+José García, técnico Capital Federal, 27 jul 1981-?
 
 Patricio Rodriguez, vendedor, 1977-1987
 
