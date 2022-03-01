@@ -67,7 +67,7 @@ Gustavo de Fillipi, inversor
 
 Carlos Pellegrini, 11 ago 1981-?
 
-Gabriel de Luca, ensamble y calidad, 1 jun 1984 - >ago 1991
+[Gabriel de Luca](Personas/Gabriel%20de%20Luca/), ensamble y calidad, 1 jun 1984 - >ago 1991
 
 Guillermo Fessia
 
