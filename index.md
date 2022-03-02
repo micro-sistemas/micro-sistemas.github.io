@@ -25,7 +25,7 @@ Máquinas
 
 [MS104](Máquinas/MS104/index.md), 1979
 
-MS105, 1982
+[MS105](Máquinas/MS105/index.md), 1981
 
 [MS51](Máquinas/MS51/index.md), 1982
 
