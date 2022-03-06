@@ -2,10 +2,10 @@
 La MS61 fue lanzada en 1984, y fue la primera IBM PC compatible de MicroSistemas.
 
 
-<a href="folleto_MS61-1.jpg"><img src="folleto_MS61-1-small.jpg"></a>
-<a href="folleto_MS61-2.jpg"><img src="folleto_MS61-2-small.jpg"></a>
-<a href="folleto_MS61-3.jpg"><img src="folleto_MS61-3-small.jpg"></a>
-<a href="folleto_MS61-4.jpg"><img src="folleto_MS61-4-small.jpg"></a>
+<a href="folleto_MS61-1.jpg"><img src="folleto_MS61-1-small.jpg" width="33%"></a>
+<a href="folleto_MS61-2.jpg"><img src="folleto_MS61-2-small.jpg" width="33%"></a>
+<a href="folleto_MS61-3.jpg"><img src="folleto_MS61-3-small.jpg" width="33%"></a>
+<a href="folleto_MS61-4.jpg"><img src="folleto_MS61-4-small.jpg" width="33%"></a>
 
 
 Al parecer hubo dos versiones.
