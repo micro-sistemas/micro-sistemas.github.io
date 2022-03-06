@@ -29,7 +29,9 @@ Máquinas
 
 [MS51](Máquinas/MS51/index.md), 1982
 
-MS61, 1984
+[MS41](Máquinas/MS41/index.md), 1983, agosto
+
+[MS61](Máquinas/MS61/index.md), 1984
 
 
 Personas
