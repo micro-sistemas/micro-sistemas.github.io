@@ -46,6 +46,9 @@ Este ejemplar está en [FaMAF](https://www.famaf.unc.edu.ar) y fue conseguido po
 Esta máquina perteneció a una fábrica de suelas de calzados "Goma Pons", de Antonio Pons e hijos en la calle 12 de Octubre esquina Jujuy de Barrio Cofico en la Ciudad de Córdoba.
 Según los testimonios esta computadora costaba alrededor de 8000 dólares estadounidenses cuando se compró.
 
+<img src="MS61_vodanovic_1.jpg" width="33%">
+<img src="MS61_vodanovic_2.jpg" width="33%">
+
 
 
 
