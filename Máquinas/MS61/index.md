@@ -37,6 +37,8 @@ Ejemplar Noblitá
 ---
 Este ejemplar es de Gabriel Noblitá en Mendoza y hasta ahora es la única placa MS61 diseño MicroSistemas que hemos encontrado.
 
+Gabriel gentilmente dumpeó la ROM [MS84001.bin](MS84001.bin).
+
 
 Ejemplar Vodanovic
 ---
