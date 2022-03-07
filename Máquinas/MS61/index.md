@@ -43,7 +43,8 @@ Gabriel gentilmente dumpeó la ROM [MS84001.bin](MS84001.bin).
 Ejemplar Vodanovic
 ---
 Este ejemplar está en [FaMAF](https://www.famaf.unc.edu.ar) y fue conseguido por Gonzalo Vodanovic.
-Esta máquina perteneció a una fábrica de calzado.
+Esta máquina perteneció a una fábrica de suelas de calzados "Goma Pons", de Antonio Pons e hijos en la calle 12 de Octubre esquina Jujuy de Barrio Cofico en la Ciudad de Córdoba.
+Según los testimonios esta computadora costaba alrededor de 8000 dólares estadounidenses cuando se compró.
 
 
 
