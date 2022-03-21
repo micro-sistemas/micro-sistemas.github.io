@@ -81,6 +81,11 @@ Mario Víctor Venzon, técnico
 
 [Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), técnico, 1987-1992
 
+Enrique Ike Mora, mantenimiento, Av. Japón
+
+Patricia Bustos, secretaria y recepcionista, Av. Japón
+
+
 
 Lugares
 ===
