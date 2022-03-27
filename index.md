@@ -119,6 +119,7 @@ SADE
 Publicaciones
 ===
 
+* José G. Morales Pensso, Roberto M. Rivas Jordán, [¿Qué papel tenían los agentes humanos en los inicios de la microcomputación? La MS51 desde adentro](Publicaciones/la_MS51_desde_adentro.pdf), marzo 2022.
 * Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [Micro Sistemas, el salto olvidado](https://revistareplay.com.ar/comprar/), Revista Replay, número 21, diciembre 2020.
 * Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [MS101, La Maquinita de Bazán](Publicaciones/MS101LaMaquinitaDeBazán.pdf), SHIALC 2018.
 * Guillermo Rojo, [Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina](Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
