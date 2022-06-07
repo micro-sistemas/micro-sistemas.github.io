@@ -23,6 +23,11 @@ Hubo al menos dos modelos, uno basado en la SBC-200 (single board computer) con 
 La placa [SBC-200](http://www.s100computers.com/Hardware%20Manuals/SD%20Systems/SD%20Systems%20SBC-200.pdf) de SD Systems venía toda armada y Microsistemas la integraba.
 Esto representa un retroceso respecto a los desarrollos locales como [MS101](../MS101) y [MS104](../MS104), que luego se revierte en la [MS61](../MS61).
 
+También se fabricaron MS51 con la placa SBC021 que es similar en prestaciones a la SBC-200.
+Se desconoce el origen.
+[Esquemático SBC021](SBC_021.pdf) aportado por Víctor Sangoy.
+Notar que se menciona que se utilizó en la [MS105](../MS105).
+
 El otro es más moderno y se diferencia en que tiene dos disketteras half-heigth [Shugart SA455](http://www.bitsavers.org/pdf/shugart/SA4xx/SA455_SA465_Service.pdf) e internamente utiliza una sola placa que contiene CPU, ROM, RAM, IO y floppy controller.
 Muy probablemente esta placa haya sido comprada en EEUU.
 
