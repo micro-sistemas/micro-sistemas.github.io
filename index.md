@@ -77,6 +77,8 @@ José García, técnico Capital Federal, 27 jul 1981-?
 
 Patricio Rodriguez, vendedor, 1977-1987
 
+Victor Sangoy, calidad, 1984-1989
+
 Mario Víctor Venzon, técnico
 
 [Carlos Alberto Díaz-Rizzi](Personas/Carlos%20Díaz-Rizzi), técnico, 1987-1992
