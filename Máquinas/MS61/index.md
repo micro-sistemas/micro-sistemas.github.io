@@ -25,7 +25,8 @@ El técnico de MicroSistemas Carlos Pellegrini nos facilitó los [circuitos esqu
 Notar que faltan algunas páginas y que para el plano principal que contiene el oscilador, el procesador y el coprocesador hay dos versiones 84001-B y 84001-C.
 
 El Ing. Víctor Sangoy escaneó "MS61, Manual del Técnico"
-<img src="MS61_portada_small.png" width="50%">
+
+<img src="MS61_portada_small.png" width="25%">
 * [Portada](MS61_portada.pdf)
 * Capítulo 0: [Índice e Introducción](MS61_chp0.pdf)
 * Capítulo 1: [Placa Base](MS61_chp1.pdf)
