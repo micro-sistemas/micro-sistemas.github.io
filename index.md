@@ -87,6 +87,8 @@ Enrique Ike Mora, mantenimiento, Av. Japón
 
 Patricia Bustos, secretaria y recepcionista, Av. Japón
 
+[Eugenio Calderón](Personas/EugenioCalderón), desarrollo software de base, agosto a noviembre 1988
+
 
 
 Lugares
