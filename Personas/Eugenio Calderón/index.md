@@ -7,6 +7,7 @@ Los equipos que usaban eran: Microsistemas MS-71 con DOS-3.20 y MS-Axis 386 SCO-
 
 
 <img alt="Equipo de MS posando" src="equipo_con_eugenio_calderon_H21988.jpg" width="50%">
+<br/>
 Equipo de MicroSistemas en la segunda mitad de 1988.
 Eugenio Calderón es el séptimo de la fila superior de izquierda a derecha.
 
