@@ -15,7 +15,5 @@ Sentado a la izquierda: <a href="https://www.linkedin.com/in/sergio-giorgetti-a8
 <br>
 Parados: Jorge Saudel, Gustavo Campos, Claudio Dadone, Jorge Mrad, Daniel Mantovani, Eugenio Calderón, Alberto Bertolino, ?.
 <br>
-Agachados: ?, Sergio Rabinovich, Ariel Grilli, Guillermo Savanco.
-
-
+Agachados: Raúl García, Sergio Rabinovich, Ariel Grilli, Guillermo Savanco.
 
