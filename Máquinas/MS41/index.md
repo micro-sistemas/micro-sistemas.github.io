@@ -26,8 +26,8 @@ Folleto
 Prensa
 ---
 
-<img src="revista_telegrafica_electronica_agosto_1983-MS41.png" width="30%">
-Revista Telegráfica Electrónica, Agosto 1983.
+<img src="revista_telegrafica_electronica_agosto_1983-MS41.png" width="30%">  
+Revista Telegráfica Electrónica, agosto 1983.
 
 
 Mundo Informático, <a href="https://mundoinformatico.com.ar/wp-content/uploads/2019/09/MI_074.pdf">Volumen IV, No. 74</a>, segunda quincena de agosto, 1983.
