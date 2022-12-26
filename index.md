@@ -123,6 +123,7 @@ SADE
 Publicaciones
 ===
 
+* José G. Morales Pensso, Roberto M. Rivas Jordán, [El rol del "desraizamiento" en la educación tecnológica: nuestra experiencia con una MS51 de Micro Sistemas](https://publicaciones.sadio.org.ar/index.php/JAIIO/article/view/377), [SAHTI 2022](https://51jaiio.sadio.org.ar/simposios/SAHTI), 51JAIIO.
 * José G. Morales Pensso, Roberto M. Rivas Jordán, [¿Qué papel tenían los agentes humanos en los inicios de la microcomputación? La MS51 desde adentro](Publicaciones/la_MS51_desde_adentro.pdf), marzo 2022.
 * Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [Micro Sistemas, el salto olvidado](https://revistareplay.com.ar/comprar/), Revista Replay, número 21, diciembre 2020.
 * Ezequiel Chesini, Gustavo del Dago, Nicolás Wolovick, [MS101, La Maquinita de Bazán](Publicaciones/MS101LaMaquinitaDeBazán.pdf), SHIALC 2018.
