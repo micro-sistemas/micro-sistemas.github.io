@@ -8,6 +8,7 @@ Características Técnicas
 
 * CPU Zilog Z80 4 MHz?
 * ? RAM.
+* Gabinete de chapa de Metalúrgica Lo Ré.
 
 Publicidad en <a href="https://mundoinformatico.com.ar/wp-content/uploads/2019/09/MI_050.pdf">Mundo Informático #50</a>, página 2.
 <br>

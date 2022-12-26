@@ -13,7 +13,7 @@ IO: terminal serial 9600 baudios con conexión a video compuesto [Synertek KTM-2
 Monitor: fósforo verde 12"
 Almacenamiento: 2 floppies Shuggart 5 1/4"
 Sistema Operativo: CP/M
-Gabinete: chapa de Metalúrgica Lorré.
+Gabinete: chapa de Metalúrgica Lo Ré.
 
 
 Modelos

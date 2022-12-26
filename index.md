@@ -111,9 +111,9 @@ Empresas
 
 PROCECOR
 
-Metalúrgica Lorré
+Metalúrgica Lo Ré
 
-CEPICO 
+CEPICO
 
 [LACI](Empresas/LACI) (Laboratorio Argentino de Circuitos Impresos)
 

@@ -20,8 +20,9 @@ Características Técnicas versión 1
 * CPU 8088-2
 * 64 KiB RAM, ampliable en placa hasta 320 KiB con 41
 * Placa genérica ISA 8 bits CGA.
+* Gabinete de chapa de Metalúrgica Lo Ré.
 
-El Ing. de MicroSistemas Carlos Pellegrini nos facilitó losi
+El Ing. de MicroSistemas Carlos Pellegrini nos facilitó los esquemáticos iniciales.
 Con el aporte del Ing. Víctor Sangoy, tenemos ya todas las páginas del esquemático, incluyendo diskettera y video.
 
 
