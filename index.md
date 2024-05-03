@@ -33,6 +33,8 @@ Máquinas
 
 [MS61](Máquinas/MS61/index.md), 1984
 
+[MS71T](Máquinas/MS71T/index.md), 198?
+
 
 Personas
 ===
