@@ -119,7 +119,7 @@ CEPICO
 
 SADE
 
-[XCR](Empresas/XCR) X Carlos Ropelato, Centro de Cómputos, Velez Sársfield ~1019.
+[XCR](Empresas/XCR) X Carlos Ropelato, Juan Carlos Lorenzati, Centro de Cómputos, Velez Sársfield ~1019.
 
 
 Publicaciones
