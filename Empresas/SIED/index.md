@@ -8,14 +8,14 @@ SIED nace alrededor de 1982 a partir de la alianza entre Miguel Lewin (CEPICO) y
 El equipo de trabajo estaba formado por
 * Miguel Lewin, venía de CEPICO.
 * Tomás Behrend, venía de Microsistemas.
-* Daniel "el negro" Molina
+* Daniel "el negro" Molina.
 
 SIED desarrolló varios sistemas, entre ellos para Peusso Iluminación, Agro Centro SC (General Cabrera), Sistema de Apuestas del Jockey Club Córdoba, Ramos Hermanos, Arcor, Provencred entre otros.
 
 <img src="GALE_manual.jpg" width="50%">
 
 Uno de los productos más interesantes fue GALE, el Generador Automático de Lecciones y Evaluaciones.
-Este software fue desarrollado en BASIC originalmente para [Radio Shack TRS-80 Model III](https://en.wikipedia.org/wiki/List_of_TRS-80_and_Tandy-branded_computers#Model_III), pero luego fue portado a [../../Máquinas/MS51], a Wang PC y a PC.
+Este software fue desarrollado en BASIC originalmente para [Radio Shack TRS-80 Model III](https://en.wikipedia.org/wiki/List_of_TRS-80_and_Tandy-branded_computers#Model_III), pero luego fue portado a [MS51](../../Máquinas/MS51), a Wang PC y a PC.
 
 Capturas de pantalla emuladas provistas por Gustavo del Dago:
 
@@ -24,7 +24,7 @@ Capturas de pantalla emuladas provistas por Gustavo del Dago:
 
 Tomás Behrend contaba en febrero de 2022:
 
-> El GALE estaba pensado para que cualquiera, no informático, pudiera hacer una clase y las evaluaciones de manera autónoma. Es decir, apuntábamos a generar un paquete de software educativo. Obviamente estábamos un poco adelantados ahí por los años 1983 u 84 , el hardware disponible era muy pobre aun ( fundamentalmente a nivel gráficos en pantalla, y a la falta de discos fijos).
+> El GALE estaba pensado para que cualquiera, no informático, pudiera hacer una clase y las evaluaciones de manera autónoma. Es decir, apuntábamos a generar un paquete de software educativo. Obviamente estábamos un poco adelantados ahí por los años 1983 u 84 , el hardware disponible era muy pobre aun (fundamentalmente a nivel gráficos en pantalla, y a la falta de discos fijos).
 >
 > La lecciones eran texto en pantalla, con alguna interactividad.
 >
@@ -35,15 +35,15 @@ Tomás Behrend contaba en febrero de 2022:
 
 Daniel Molina recuerda:
 
-> GALE era básicamente. Un profe cargara 80 preguntas, y las categorizaba, tiempo de duración.
-> 4 tipos, multiple opción, columnas relacionadas, llenado de blancos y verdadero/falso.
+> En GALE un profe cargara 80 preguntas y las categorizaba, tiempo de duración.
+> Había de 4 tipos: multiple opción, columnas relacionadas, llenado de blancos y verdadero/falso.
 >
-> Luego se tomaba un exámen, 20 preguntas 5 de esta categoría, y 4 de esta y el tiempo fijo por pregunta o no.
+> Luego se tomaba un exámen, 20 preguntas 5 de esta categoría, y 4 de esta otra y el tiempo fijo por pregunta o no.
 >
 > Este sistema se usó mucho en AES. Se usó mucho para ingreso a Universidad.
 > Sacaba preguntas al azar, cargaba DNI y hacía el exámen.
 >
-> Luego hacían un gráfico con los resultados. Yo armé un archivo indexado
+> Luego hacían un gráfico con los resultados. Yo armé un archivo indexado.
 > Después lo migraron a la PC, pero no funcionó.
 >
 > También había un Curso de Autoestudio en BASIC, donde se mostraban las instrucciones y sintáxis y tenía un parser chiquito y te cantaba los mocos (errores).
