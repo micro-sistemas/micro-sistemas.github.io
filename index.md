@@ -123,6 +123,8 @@ SADE
 
 [XCR](Empresas/XCR) X Carlos Ropelato, Juan Carlos Lorenzati, Centro de Cómputos, Velez Sársfield ~1019.
 
+[SIED](Empresas/SIED) Sistemas de Informática para la Educación y el Desarrollo, Lima 75/Lima 67.
+
 
 Publicaciones
 ===
