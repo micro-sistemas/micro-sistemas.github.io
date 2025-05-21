@@ -3,19 +3,28 @@ SIED
 
 Sistemas de Informática para la Educación el Desarrollo fué una empresa de desarrollo de software en el primer piso de Lima 67 de Córdoba Capital.
 Debajo estaba AES (Academia de Enseñanza Superior) y luego IES (Instituto de Enseñanza Superior) de Juan Carlos Rabbat.
-SIED nace alrededor de 1982 a partir de la alianza entre Miguel Lewin (CEPICO) y Juan Carlos Rabbat (AES).
+SIED nace en abril de 1982 a partir de la alianza entre Miguel Lewin (CEPICO) y Juan Carlos Rabbat (AES).
 
 El equipo de trabajo estaba formado por
 * Miguel Lewin, venía de CEPICO.
 * Tomás Behrend, venía de Microsistemas.
 * Daniel "el negro" Molina.
+* "Cartucho"
+* German Turriziani
+* Fernanda Muscariello
+* Carlos Abril
 
-SIED desarrolló varios sistemas, entre ellos para Peusso Iluminación, Agro Centro SC (General Cabrera), Sistema de Apuestas del Jockey Club Córdoba, Ramos Hermanos, Arcor, Provencred entre otros.
+SIED desarrolló varios sistemas, entre ellos para Perfumerías Fiorani, Peusso Iluminación, Agrocentro SC (General Cabrera, sistema UNIX), Sistema de Apuestas del Jockey Club Córdoba, Ramos Hermanos, Arcor, Provencred entre otros.
 
-<img src="GALE_manual.jpg" width="50%">
+<img src="cheque_Banco_Provencor.jpg" width="50%">
+Primer cheque impreso con matriz de puntos conectada a una [MS51](../../Máquinas/MS51) para Banco Provencor.
+
+
 
 Uno de los productos más interesantes fue GALE, el Generador Automático de Lecciones y Evaluaciones.
 Este software fue desarrollado en BASIC originalmente para [Radio Shack TRS-80 Model III](https://en.wikipedia.org/wiki/List_of_TRS-80_and_Tandy-branded_computers#Model_III), pero luego fue portado a [MS51](../../Máquinas/MS51), a Wang PC y a PC.
+
+<img src="GALE_manual.jpg" width="50%">
 
 Capturas de pantalla emuladas provistas por Gustavo del Dago:
 
@@ -35,10 +44,10 @@ Tomás Behrend contaba en febrero de 2022:
 
 Daniel Molina recuerda:
 
-> En GALE un profe cargara 80 preguntas y las categorizaba, tiempo de duración.
+> En GALE, por ejemplo, un profe cargara 80 preguntas y las categorizaba, tiempo de duración.
 > Había de 4 tipos: multiple opción, columnas relacionadas, llenado de blancos y verdadero/falso.
 >
-> Luego se tomaba un exámen, 20 preguntas 5 de esta categoría, y 4 de esta otra y el tiempo fijo por pregunta o no.
+> Luego se tomaba un exámen, digamos 20 preguntas 5 de esta categoría, y 4 de esta otra y el tiempo fijo por pregunta o no.
 >
 > Este sistema se usó mucho en AES. Se usó mucho para ingreso a Universidad.
 > Sacaba preguntas al azar, cargaba DNI y hacía el exámen.
