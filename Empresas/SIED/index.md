@@ -17,6 +17,7 @@ El equipo de trabajo estaba formado por
 SIED desarrolló varios sistemas, entre ellos para Perfumerías Fiorani, Peusso Iluminación, Agrocentro SC (General Cabrera, sistema UNIX), Sistema de Apuestas del Jockey Club Córdoba, Ramos Hermanos, Arcor, Provencred entre otros.
 
 <img src="cheque_Banco_Provencor.jpg" width="50%">
+<br>
 Primer cheque impreso con matriz de puntos conectada a una [MS51](../../Máquinas/MS51) para Banco Provencor.
 
 
