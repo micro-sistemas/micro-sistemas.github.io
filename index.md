@@ -91,6 +91,10 @@ Patricia Bustos, secretaria y recepcionista, Av. Japón
 
 [Eugenio Calderón](Personas/Eugenio%20Calderón), desarrollo software de base, agosto a noviembre 1988
 
+[José Perlo](Personas/José%20Perlo), área de desarrollo de hardware y software, proyectos especiales, 1982-1988
+
+[Jorge Saudel](Personas/Jorge%20Saudel), área técnica c/Eduardo Salonia y luego desarrollo, 1984-1993
+
 
 
 Lugares
