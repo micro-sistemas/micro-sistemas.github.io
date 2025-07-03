@@ -2,6 +2,8 @@ José Luis Perlo
 ===
 
 <img alt="José Luis Perlo" width="25%" src="JosePerlo_Proyecto_LasLeñas.jpg">
+<br>
+José Luis Perlo en el Valle de Las Leñas, detrás los hoteles y la antena parabólica de ENTel.
 
 Entró en junio de 1980 y hasta marzo 1983 se desempeñó dentro del Departamento de Software en **Desarrollos Especiales**.
 Trabajó inicialmente en el área de desarrollo de hardware y software, programando en ensamblador de 8080 y Z80 para
