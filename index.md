@@ -41,7 +41,7 @@ Personas
 
 Julio Eduardo Bazán, socio fundador, 1975-?, ?-?
 
-Héctor Müller ("El Gringo"), softwarista, 1975-?
+[Héctor Müller](Personas/Héctor%20Müller/) ("El Gringo"), softwarista, 1975-1983
 
 Juan Carlos Murgui, hardwarista, 1975-?
 
