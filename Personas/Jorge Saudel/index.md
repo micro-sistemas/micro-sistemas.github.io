@@ -1,7 +1,7 @@
 Jorge Saudel
 ===
 
-Entró en 1984 y se fué en 1993, al comienzo estaba en el área técnica con [Eduardo Salonia](../Eduardo%20Salonia) y luego estuve en desarrollo con Daniel Mantovani.
+Entró en 1984 y se fué en 1993, al comienzo estaba en el área técnica con [Eduardo Salonia](../Eduardo%20Salonia) y luego estuvo en desarrollo con Daniel Mantovani.
 
 * 1985 Departamento de Mantenimiento Técnico
 * 1986 Departamento de Ingeniería y Escuela.
