@@ -13,7 +13,8 @@ Equipo de MicroSistemas en la segunda mitad de 1988. Foto aportada por Eugenio C
 
 Sentado a la izquierda: <a href="https://www.linkedin.com/in/sergio-giorgetti-a8929b14/">Sergio Georgetti</a>
 <br>
-Parados: Jorge Saudel, Gustavo Campos, Claudio Dadone, Jorge Mrad, Daniel Mantovani, Eugenio Calderón, Alberto Bertolino, ?.
+Parados: [Jorge Saudel](../Jorge%20Saudel), Gustavo Campos, Claudio Dadone, Jorge Mrad, Daniel Mantovani, [Eugenio Calderón](https://www.linkedin.com/in/eugeniocalderon/), Alberto Bertolino, Francisco Lunardi.
 <br>
-Agachados: Raúl García, Sergio Rabinovich, Ariel Grilli, Guillermo Savanco.
+Agachados: Raúl García, Sergio Rabinovich, Ariel Grilli, [Guillermo Savanco](https://www.linkedin.com/in/ing-guillermo-h-savanco-b65162139/).
+
 
