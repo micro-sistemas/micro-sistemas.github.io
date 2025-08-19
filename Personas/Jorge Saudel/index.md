@@ -12,10 +12,10 @@ Entró en 1984 y se fué en 1993, al comienzo estaba en el área técnica con [E
 
 * 1991 Departamento de Investigación y Desarrollo como programador Senior. Proyectos:
   * Software en Lenguaje Assembler para sistemas POS (POINT OF SALE) para Valle de las Leñas.
-  * Software en Lenguaje Assembler para Sistemas de Comunicaciones RS-2323 atendiendo 8 terminales a la vez entre Terminal de Venta y Equipo Concentrador para Valle de las Leñas.
+  * Software en Lenguaje Assembler para Sistemas de Comunicaciones RS-232 atendiendo 8 terminales a la vez entre Terminal de Venta y Equipo Concentrador para Valle de las Leñas.
   * Software en Lenguaje “C” para Registro de Firmas implementado totalmente en modo Grafico para el Banco de Valores de la Provincia de Buenos Aires.
   * Programas residentes para Manejo de Lecto-Grabadoras de la linea IBM.
-  * Interfaces entre Assembler, C y DBase III Plus para permitir grabados de Tarjetas en Sistemas de ingreso de pasajeros en Hoteles del Valle de las Leñas implementados en lenguaje Clipper.
+  * Interfaces entre Assembler, C y dBase III Plus para permitir grabados de Tarjetas en Sistemas de ingreso de pasajeros en Hoteles del Valle de las Leñas implementados en lenguaje Clipper.
   * Handlers Multitareas-Multiusuarios para manejo de Periféricos (Pin Pad, Lector-Grabadora, Teclado Financiero, Impresoras) para sistema “TAF” (Terminal de Automatización Financiera) para Banco de Rosario (Santa Fé), desarrollado totalmente en Lenguaje Assembler.
   * Modificación de BIOS de equipos POS (Point of Sale) para adaptación del Video a DBASE III Plus.
   * Device Driver para funcionamiento de Lecto-Grabadora de American Magnetics para inserción en Equipo Microbank de Microsistemas (Terminal de Autoconsulta tipo cajero Banelco).
@@ -28,5 +28,6 @@ Entró en 1984 y se fué en 1993, al comienzo estaba en el área técnica con [E
 Jorge conservó dos cajas de diskettes 8" que son un verdadero tesoro.
 
 Etiquetas de la primera caja:
-<img alt="18 etiquetas de diskettes 8" width="25%" src="caja1_8p_Jorge_Saudel.jpg">
+<br>
+<img alt="18 etiquetas de diskettes 8" width="75%" src="caja1_8p_Jorge_Saudel.jpg">
 
