@@ -31,3 +31,6 @@ Etiquetas de la primera caja:
 <br>
 <img alt="18 etiquetas de diskettes 8" width="75%" src="caja1_8p_Jorge_Saudel.jpg">
 
+Etiquetas de la segunda caja:
+<br>
+<img alt="16 etiquetas de 15 diskettes 8 y uno de 5.25" width="75%" src="caja2_8p_Jorge_Saudel.jpg">
