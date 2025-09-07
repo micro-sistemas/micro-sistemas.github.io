@@ -142,4 +142,4 @@ Publicaciones
 
 
 
-[![](mastodon-icon.png)](https://mstdn.social/@ArqueologiaComputacional@rebel.ar)
+[<img src="mastodon-icon.png">](https://mstdn.social/@ArqueologiaComputacional@rebel.ar)
