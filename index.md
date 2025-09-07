@@ -140,3 +140,6 @@ Publicaciones
 * Guillermo Rojo, [Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina](Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
 * Nicolás J. Herencic, [Microsistemas S.A.: El Salto Tecnológico](Publicaciones/MICROSISTEMAS_El_Salto_Tecnologico.pdf), Ediciones Banco de la Provincia de Buenos Aires, Testimonios No.10, julio 1987.
 
+
+
+[![](mastodon-icon.png)](https://mstdn.social/@ArqueologiaComputacional@rebel.ar)
