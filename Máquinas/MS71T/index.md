@@ -19,7 +19,7 @@ Gabinete: chapa de Metalúrgica Lo Ré.
 Ejemplares
 ---
 
-* [Ejemplar Santa Fé](EjemplarSantaFé/): .
+* [Ejemplar Santa Fé](EjemplarSantaFé/index.md): .
 
 
 Misceláneas
