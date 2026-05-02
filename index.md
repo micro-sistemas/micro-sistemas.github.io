@@ -140,6 +140,16 @@ Publicaciones
 * Guillermo Rojo, [Micro Sistemas, empresa cordobesa pionera en la fabricación de computadoras en la Argentina](Publicaciones/clei2014_submission_59.pdf), SHIALC 2014.
 * Nicolás J. Herencic, [Microsistemas S.A.: El Salto Tecnológico](Publicaciones/MICROSISTEMAS_El_Salto_Tecnologico.pdf), Ediciones Banco de la Provincia de Buenos Aires, Testimonios No.10, julio 1987.
 
+Charlas, artículos periodísticos
+===
+
+* Darío Illanes, [La primera computadora creada en Córdoba](https://www.youtube.com/watch?v=6zSw7Cq5Sao), Buen Mediodía, Telefé Córdoba, 20260428.
+  * [Introducción](https://fediverse.tv/w/eUWL33x5ieoYqWDctX4Yz2).
+* Cristián Rojo Pérez, Alexandro Palacios, Ezequiel Chesini, Gustavo Morales, [Arqueología computacional de la industria informática en Córdoba](), [VCFLatAm 2026](https://vcf.espaciotec.com.ar/cronograma.php?lang=es), Bahía Blanca, 20260424.
+* Benita Cuellar, [Una vida dedicada a la enseñanza: la historia de Próspero y Carmen, pioneros de la electrónica digital](https://www.lavoz.com.ar/ciudadanos/una-vida-dedicada-a-la-ensenanza-la-historia-de-prospero-y-carmen-pioneros-de-la-electronica-digital/), La Voz del Interior, 20251221.
+* Virginia Digón, [Mary, la chica de los cables: con 82 años recuerda sus trabajos como única mujer en tecnológicas](https://www.lavoz.com.ar/ciudadanos/mary-la-chica-de-los-cables-con-82-anos-recuerda-sus-trabajos-en-tecnologicas-donde-era-la-unica-mujer/), La Voz del Interior, 20240525.
+* Lucas Viano, [Microsistemas y la pionera MS101, el sueño del Silicon Valley cordobés](https://www.lavoz.com.ar/ciudadanos/microsistemas-y-la-pionera-ms101-el-sueno-del-silicon-valley-cordobes/), La Voz del Interior, 20170327.
+
 
 
 [<img src="mastodon-icon.png">](https://mstdn.social/@ArqueologiaComputacional@rebel.ar)
