@@ -129,6 +129,8 @@ SADE
 
 [SIED](Empresas/SIED) Sistemas de Informática para la Educación y el Desarrollo, Lima 75/Lima 67.
 
+[L.E.D.](Empresas/LED) Laboratorio de Electrónica Digital, Rivera Indarte 387.
+
 
 Publicaciones
 ===
