@@ -34,3 +34,7 @@ Etiquetas de la primera caja:
 Etiquetas de la segunda caja:
 <br>
 <img alt="16 etiquetas de 15 diskettes 8 y uno de 5.25" width="75%" src="caja2_8p_Jorge_Saudel.jpg">
+
+Todos los diskettes, escaneo de Alexandro Palacios
+<br>
+<img alt="todos los diskettes completos de Jorge Saudel" width="50%" src="JorgeSaudel_disk8_montage.jpg">
